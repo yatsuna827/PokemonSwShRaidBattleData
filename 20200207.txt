@@ -1,0 +1,59 @@
+{
+    "Label": "2020 Early February",
+    "SwTable": [
+        [
+            {"SlotType": "Event1", "Name": "マホミル"},
+            {"SlotType": "Event1", "Name": "マホミル", "ForceHiddenAbility": true}
+        ],
+        [
+            {"SlotType": "Event2", "Name": "マホミル"},
+            {"SlotType": "Event2", "Name": "マホミル", "ForceHiddenAbility": true}
+        ],
+        [
+            {"SlotType": "Event3", "Name": "マホミル"},
+            {"SlotType": "Event3", "Name": "ギモー"},
+            {"SlotType": "Event3", "Name": "キングラー", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "ストリンダー", "Form": "ハイキョダイ"}
+        ],
+        [
+            {"SlotType": "Event4", "Name": "マホミル"},
+            {"SlotType": "Event4", "Name": "オーロンゲ", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "キングラー", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "ストリンダー", "Form": "ハイキョダイ"}
+        ],
+        [
+            {"SlotType": "Event5", "Name": "マホミル"},
+            {"SlotType": "Event5", "Name": "オーロンゲ", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "キングラー", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "ストリンダー", "Form": "ハイキョダイ"}
+        ]
+    ],
+    "ShTable": [
+        [
+            {"SlotType": "Event1", "Name": "マホミル"},
+            {"SlotType": "Event1", "Name": "マホミル", "ForceHiddenAbility": true}
+        ],
+        [
+            {"SlotType": "Event2", "Name": "マホミル"},
+            {"SlotType": "Event2", "Name": "マホミル", "ForceHiddenAbility": true}
+        ],
+        [
+            {"SlotType": "Event3", "Name": "マホミル"},
+            {"SlotType": "Event3", "Name": "テブリム"},
+            {"SlotType": "Event3", "Name": "イオルブ", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "ストリンダー", "Form": "ローキョダイ"}
+        ],
+        [
+            {"SlotType": "Event4", "Name": "マホミル"},
+            {"SlotType": "Event4", "Name": "ブリムオン", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "イオルブ", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "ストリンダー", "Form": "ローキョダイ"}
+        ],
+        [
+            {"SlotType": "Event5", "Name": "マホミル"},
+            {"SlotType": "Event5", "Name": "ブリムオン", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "イオルブ", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "ストリンダー", "Form": "ローキョダイ"}
+        ]
+    ]
+}

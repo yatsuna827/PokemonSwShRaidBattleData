@@ -1,0 +1,87 @@
+{
+    "Label": "2020 NewYear",
+    "SwTable": [
+        [
+            {"SlotType": "Event1", "Name": "コイキング"},
+            {"SlotType": "Event1", "Name": "コイキング", "ForceShiny": true},
+            {"SlotType": "Event1", "Name": "バタフリー", "Form": "キョダイ"},
+            {"SlotType": "Event1", "Name": "ゴンベ"},
+            {"SlotType": "Event1", "Name": "スナヘビ"},
+            {"SlotType": "Event1", "Name": "カムカメ"}
+        ],
+        [
+            {"SlotType": "Event2", "Name": "コイキング"},
+            {"SlotType": "Event2", "Name": "コイキング", "ForceShiny": true},
+            {"SlotType": "Event2", "Name": "バタフリー", "Form": "キョダイ"},
+            {"SlotType": "Event2", "Name": "カビゴン"},
+            {"SlotType": "Event2", "Name": "スナヘビ"},
+            {"SlotType": "Event2", "Name": "カジリガメ"}
+        ],
+        [
+            {"SlotType": "Event3", "Name": "コイキング"},
+            {"SlotType": "Event3", "Name": "コイキング", "ForceShiny": true},
+            {"SlotType": "Event3", "Name": "バタフリー", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "カビゴン", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "サダイジャ", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "カジリガメ", "Form": "キョダイ"}
+        ],
+        [
+            {"SlotType": "Event4", "Name": "コイキング"},
+            {"SlotType": "Event4", "Name": "コイキング", "ForceShiny": true},
+            {"SlotType": "Event4", "Name": "バタフリー", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "カビゴン", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "サダイジャ", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "カジリガメ", "Form": "キョダイ"}
+        ],
+        [
+            {"SlotType": "Event5", "Name": "コイキング"},
+            {"SlotType": "Event5", "Name": "コイキング", "ForceShiny": true},
+            {"SlotType": "Event5", "Name": "バタフリー", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "カビゴン", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "サダイジャ", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "カジリガメ", "Form": "キョダイ"}
+        ]
+    ],
+    "ShTable": [
+        [
+            {"SlotType": "Event1", "Name": "コイキング"},
+            {"SlotType": "Event1", "Name": "コイキング", "ForceShiny": true},
+            {"SlotType": "Event1", "Name": "バタフリー", "Form": "キョダイ"},
+            {"SlotType": "Event1", "Name": "ゴンベ"},
+            {"SlotType": "Event1", "Name": "ココガラ"},
+            {"SlotType": "Event1", "Name": "ヤクデ"}
+        ],
+        [
+            {"SlotType": "Event2", "Name": "コイキング"},
+            {"SlotType": "Event2", "Name": "コイキング", "ForceShiny": true},
+            {"SlotType": "Event2", "Name": "バタフリー", "Form": "キョダイ"},
+            {"SlotType": "Event2", "Name": "カビゴン"},
+            {"SlotType": "Event2", "Name": "アオガラス"},
+            {"SlotType": "Event2", "Name": "マルヤクデ"}
+        ],
+        [
+            {"SlotType": "Event3", "Name": "コイキング"},
+            {"SlotType": "Event3", "Name": "コイキング", "ForceShiny": true},
+            {"SlotType": "Event3", "Name": "バタフリー", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "カビゴン", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "アーマーガア", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "マルヤクデ", "Form": "キョダイ"}
+        ],
+        [
+            {"SlotType": "Event4", "Name": "コイキング"},
+            {"SlotType": "Event4", "Name": "コイキング", "ForceShiny": true},
+            {"SlotType": "Event4", "Name": "バタフリー", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "カビゴン", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "アーマーガア", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "マルヤクデ", "Form": "キョダイ"}
+        ],
+        [
+            {"SlotType": "Event5", "Name": "コイキング"},
+            {"SlotType": "Event5", "Name": "コイキング", "ForceShiny": true},
+            {"SlotType": "Event5", "Name": "バタフリー", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "カビゴン", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "アーマーガア", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "マルヤクデ", "Form": "キョダイ"}
+        ]
+    ]
+}

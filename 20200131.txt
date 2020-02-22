@@ -1,0 +1,81 @@
+{
+    "Label": "2020 LateJanuary",
+    "SwTable": [
+        [
+            {"SlotType": "Event1", "Name": "マホミル"},
+            {"SlotType": "Event1", "Name": "マホミル", "ForceHiddenAbility": true},
+            {"SlotType": "Event1", "Name": "カジッチュ"},
+            {"SlotType": "Event1", "Name": "カジッチュ", "ForceHiddenAbility": true},
+            {"SlotType": "Event1", "Name": "タンドン"},
+            {"SlotType": "Event1", "Name": "タンドン", "ForceHiddenAbility": true}
+        ],
+        [
+            {"SlotType": "Event2", "Name": "マホミル"},
+            {"SlotType": "Event2", "Name": "マホミル", "ForceHiddenAbility": true},
+            {"SlotType": "Event2", "Name": "アップリュー"},
+            {"SlotType": "Event2", "Name": "アップリュー", "ForceHiddenAbility": true},
+            {"SlotType": "Event2", "Name": "トロッゴン"},
+            {"SlotType": "Event2", "Name": "トロッゴン", "ForceHiddenAbility": true}
+        ],
+        [
+            {"SlotType": "Event3", "Name": "マホミル"},
+            {"SlotType": "Event3", "Name": "アップリュー"},
+            {"SlotType": "Event3", "Name": "アップリュー", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "セキタンザン"},
+            {"SlotType": "Event3", "Name": "セキタンザン", "Form": "キョダイ"}
+        ],
+        [
+            {"SlotType": "Event4", "Name": "マホミル"},
+            {"SlotType": "Event4", "Name": "アップリュー"},
+            {"SlotType": "Event4", "Name": "アップリュー", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "セキタンザン"},
+            {"SlotType": "Event4", "Name": "セキタンザン", "Form": "キョダイ"}
+        ],
+        [
+            {"SlotType": "Event5", "Name": "マホミル"},
+            {"SlotType": "Event5", "Name": "アップリュー"},
+            {"SlotType": "Event5", "Name": "アップリュー", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "セキタンザン"},
+            {"SlotType": "Event5", "Name": "セキタンザン", "Form": "キョダイ"}
+        ]
+    ],
+    "ShTable": [
+        [
+            {"SlotType": "Event1", "Name": "マホミル"},
+            {"SlotType": "Event1", "Name": "マホミル", "ForceHiddenAbility": true},
+            {"SlotType": "Event1", "Name": "カジッチュ"},
+            {"SlotType": "Event1", "Name": "カジッチュ", "ForceHiddenAbility": true},
+            {"SlotType": "Event1", "Name": "ラプラス"},
+            {"SlotType": "Event1", "Name": "ラプラス", "ForceHiddenAbility": true}
+        ],
+        [
+            {"SlotType": "Event2", "Name": "マホミル"},
+            {"SlotType": "Event2", "Name": "マホミル", "ForceHiddenAbility": true},
+            {"SlotType": "Event2", "Name": "タルップル"},
+            {"SlotType": "Event2", "Name": "タルップル", "ForceHiddenAbility": true},
+            {"SlotType": "Event2", "Name": "ラプラス"},
+            {"SlotType": "Event2", "Name": "ラプラス", "ForceHiddenAbility": true}
+        ],
+        [
+            {"SlotType": "Event3", "Name": "マホミル"},
+            {"SlotType": "Event3", "Name": "タルップル"},
+            {"SlotType": "Event3", "Name": "タルップル", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "ラプラス"},
+            {"SlotType": "Event3", "Name": "ラプラス", "Form": "キョダイ"}
+        ],
+        [
+            {"SlotType": "Event4", "Name": "マホミル"},
+            {"SlotType": "Event4", "Name": "タルップル"},
+            {"SlotType": "Event4", "Name": "タルップル", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "ラプラス"},
+            {"SlotType": "Event4", "Name": "ラプラス", "Form": "キョダイ"}
+        ],
+        [
+            {"SlotType": "Event5", "Name": "マホミル"},
+            {"SlotType": "Event5", "Name": "タルップル"},
+            {"SlotType": "Event5", "Name": "タルップル", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "ラプラス"},
+            {"SlotType": "Event5", "Name": "ラプラス", "Form": "キョダイ"}
+        ]
+    ]
+}

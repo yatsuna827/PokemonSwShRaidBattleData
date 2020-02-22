@@ -1,0 +1,85 @@
+{
+    "Label": "2020 February",
+    "SwTable": [
+        [
+            {"SlotType": "Event1", "Name": "クラブ"},
+            {"SlotType": "Event1", "Name": "クラブ", "ForceHiddenAbility": true},
+            {"SlotType": "Event1", "Name": "ベロバー"},
+            {"SlotType": "Event1", "Name": "ベロバー", "ForceHiddenAbility": true},
+            {"SlotType": "Event1", "Name": "エレズン"},
+            {"SlotType": "Event1", "Name": "エレズン", "ForceHiddenAbility": true}
+        ],
+        [
+            {"SlotType": "Event2", "Name": "キングラー"},
+            {"SlotType": "Event2", "Name": "キングラー", "Form": "キョダイ"},
+            {"SlotType": "Event2", "Name": "ベロバー"},
+            {"SlotType": "Event2", "Name": "ベロバー", "ForceHiddenAbility": true},
+            {"SlotType": "Event2", "Name": "ストリンダー", "Form": "ハイ"},
+            {"SlotType": "Event2", "Name": "ストリンダー", "Form": "ハイ", "ForceHiddenAbility": true}
+        ],
+        [
+            {"SlotType": "Event3", "Name": "キングラー"},
+            {"SlotType": "Event3", "Name": "キングラー", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "ギモー"},
+            {"SlotType": "Event3", "Name": "ストリンダー", "Form": "ハイ"},
+            {"SlotType": "Event3", "Name": "ストリンダー", "Form": "ハイキョダイ"}
+        ],
+        [
+            {"SlotType": "Event4", "Name": "キングラー"},
+            {"SlotType": "Event4", "Name": "キングラー", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "オーロンゲ"},
+            {"SlotType": "Event4", "Name": "オーロンゲ", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "ストリンダー", "Form": "ハイ"},
+            {"SlotType": "Event4", "Name": "ストリンダー", "Form": "ハイキョダイ"}
+        ],
+        [
+            {"SlotType": "Event5", "Name": "キングラー"},
+            {"SlotType": "Event5", "Name": "キングラー", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "オーロンゲ"},
+            {"SlotType": "Event5", "Name": "オーロンゲ", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "ストリンダー", "Form": "ハイ"},
+            {"SlotType": "Event5", "Name": "ストリンダー", "Form": "ハイキョダイ"}
+        ]
+    ],
+    "ShTable": [
+        [
+            {"SlotType": "Event1", "Name": "レドームシ"},
+            {"SlotType": "Event1", "Name": "レドームシ", "ForceHiddenAbility": true},
+            {"SlotType": "Event1", "Name": "ミブリム"},
+            {"SlotType": "Event1", "Name": "ミブリム", "ForceHiddenAbility": true},
+            {"SlotType": "Event1", "Name": "エレズン"},
+            {"SlotType": "Event1", "Name": "エレズン", "ForceHiddenAbility": true}
+        ],
+        [
+            {"SlotType": "Event2", "Name": "イオルブ"},
+            {"SlotType": "Event2", "Name": "イオルブ", "Form": "キョダイ"},
+            {"SlotType": "Event2", "Name": "ミブリム"},
+            {"SlotType": "Event2", "Name": "ミブリム", "ForceHiddenAbility": true},
+            {"SlotType": "Event2", "Name": "ストリンダー", "Form": "ロー"},
+            {"SlotType": "Event2", "Name": "ストリンダー", "Form": "ロー", "ForceHiddenAbility": true}
+        ],
+        [
+            {"SlotType": "Event3", "Name": "イオルブ"},
+            {"SlotType": "Event3", "Name": "イオルブ", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "テブリム"},
+            {"SlotType": "Event3", "Name": "ストリンダー", "Form": "ロー"},
+            {"SlotType": "Event3", "Name": "ストリンダー", "Form": "ローキョダイ"}
+        ],
+        [
+            {"SlotType": "Event4", "Name": "イオルブ"},
+            {"SlotType": "Event4", "Name": "イオルブ", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "ブリムオン"},
+            {"SlotType": "Event4", "Name": "ブリムオン", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "ストリンダー", "Form": "ロー"},
+            {"SlotType": "Event4", "Name": "ストリンダー", "Form": "ローキョダイ"}
+        ],
+        [
+            {"SlotType": "Event5", "Name": "イオルブ"},
+            {"SlotType": "Event5", "Name": "イオルブ", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "ブリムオン"},
+            {"SlotType": "Event5", "Name": "ブリムオン", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "ストリンダー", "Form": "ロー"},
+            {"SlotType": "Event5", "Name": "ストリンダー", "Form": "ローキョダイ"}
+        ]
+    ]
+}
