@@ -1,0 +1,83 @@
+{
+    "Label": "2020 Pokemon Day",
+    "SwTable": [
+        [
+            {"SlotType": "Event1", "Name": "フシギダネ"},
+            {"SlotType": "Event1", "Name": "ヒトカゲ"},
+            {"SlotType": "Event1", "Name": "ゼニガメ"},
+            {"SlotType": "Event1", "Name": "クラブ"},
+            {"SlotType": "Event1", "Name": "ベロバー"},
+            {"SlotType": "Event1", "Name": "エレズン"}
+        ],
+        [
+            {"SlotType": "Event2", "Name": "フシギダネ"},
+            {"SlotType": "Event2", "Name": "ヒトカゲ"},
+            {"SlotType": "Event2", "Name": "ゼニガメ"},
+            {"SlotType": "Event2", "Name": "キングラー", "Form": "キョダイ"},
+            {"SlotType": "Event2", "Name": "ベロバー"},
+            {"SlotType": "Event2", "Name": "ストリンダー", "Form": "ハイ"}
+        ],
+        [
+            {"SlotType": "Event3", "Name": "フシギダネ"},
+            {"SlotType": "Event3", "Name": "ヒトカゲ"},
+            {"SlotType": "Event3", "Name": "ゼニガメ"},
+            {"SlotType": "Event3", "Name": "キングラー", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "ギモー"},
+            {"SlotType": "Event3", "Name": "ストリンダー", "Form": "ハイキョダイ"}
+        ],
+        [
+            {"SlotType": "Event4", "Name": "フシギソウ"},
+            {"SlotType": "Event4", "Name": "リザード"},
+            {"SlotType": "Event4", "Name": "カメール"},
+            {"SlotType": "Event4", "Name": "キングラー", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "オーロンゲ", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "ストリンダー", "Form": "ハイキョダイ"}
+        ],
+        [
+            {"SlotType": "Event5", "Name": "キングラー", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "オーロンゲ", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "ストリンダー", "Form": "ハイキョダイ"},
+            {"SlotType": "Event5", "Name": "ミュウツー", "isUncatchable": true}
+        ]
+    ],
+    "ShTable": [
+        [
+            {"SlotType": "Event1", "Name": "フシギダネ"},
+            {"SlotType": "Event1", "Name": "ヒトカゲ"},
+            {"SlotType": "Event1", "Name": "ゼニガメ"},
+            {"SlotType": "Event1", "Name": "レドームシ"},
+            {"SlotType": "Event1", "Name": "ミブリム"},
+            {"SlotType": "Event1", "Name": "エレズン"}
+        ],
+        [
+            {"SlotType": "Event2", "Name": "フシギダネ"},
+            {"SlotType": "Event2", "Name": "ヒトカゲ"},
+            {"SlotType": "Event2", "Name": "ゼニガメ"},
+            {"SlotType": "Event2", "Name": "イオルブ", "Form": "キョダイ"},
+            {"SlotType": "Event2", "Name": "ミブリム"},
+            {"SlotType": "Event2", "Name": "ストリンダー", "Form": "ロー"}
+        ],
+        [
+            {"SlotType": "Event3", "Name": "フシギダネ"},
+            {"SlotType": "Event3", "Name": "ヒトカゲ"},
+            {"SlotType": "Event3", "Name": "ゼニガメ"},
+            {"SlotType": "Event3", "Name": "イオルブ", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "テブリム"},
+            {"SlotType": "Event3", "Name": "ストリンダー", "Form": "ローキョダイ"}
+        ],
+        [
+            {"SlotType": "Event4", "Name": "フシギソウ"},
+            {"SlotType": "Event4", "Name": "リザード"},
+            {"SlotType": "Event4", "Name": "カメール"},
+            {"SlotType": "Event4", "Name": "イオルブ", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "ブリムオン", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "ストリンダー", "Form": "ローキョダイ"}
+        ],
+        [
+            {"SlotType": "Event5", "Name": "イオルブ", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "ブリムオン", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "ストリンダー", "Form": "ローキョダイ"},
+            {"SlotType": "Event5", "Name": "ミュウツー", "isUncatchable": true}
+        ]
+    ]
+}
