@@ -1,0 +1,87 @@
+{
+    "Label": "2020 March",
+    "SwTable": [
+        [
+            {"SlotType": "Event1", "Name": "ゴンベ"},
+            {"SlotType": "Event1", "Name": "ゴンベ", "ForceHiddenAbility": true},
+            {"SlotType": "Event1", "Name": "ゴース"},
+            {"SlotType": "Event1", "Name": "ゴース", "ForceHiddenAbility": true},
+            {"SlotType": "Event1", "Name": "ワンリキー"},
+            {"SlotType": "Event1", "Name": "ワンリキー", "ForceHiddenAbility": true}
+        ],
+        [
+            {"SlotType": "Event2", "Name": "カビゴン"},
+            {"SlotType": "Event2", "Name": "カビゴン", "ForceHiddenAbility": true},
+            {"SlotType": "Event2", "Name": "ゴースト"},
+            {"SlotType": "Event2", "Name": "ゴースト", "ForceHiddenAbility": true},
+            {"SlotType": "Event2", "Name": "ゴーリキー"},
+            {"SlotType": "Event2", "Name": "ゴーリキー", "ForceHiddenAbility": true}
+        ],
+        [
+            {"SlotType": "Event3", "Name": "カビゴン"},
+            {"SlotType": "Event3", "Name": "カビゴン", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "ゲンガー"},
+            {"SlotType": "Event3", "Name": "ゲンガー", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "カイリキー"},
+            {"SlotType": "Event3", "Name": "カイリキー", "Form": "キョダイ"}
+        ],
+        [
+            {"SlotType": "Event4", "Name": "カビゴン"},
+            {"SlotType": "Event4", "Name": "カビゴン", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "ゲンガー"},
+            {"SlotType": "Event4", "Name": "ゲンガー", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "カイリキー"},
+            {"SlotType": "Event4", "Name": "カイリキー", "Form": "キョダイ"}
+        ],
+        [
+            {"SlotType": "Event5", "Name": "カビゴン"},
+            {"SlotType": "Event5", "Name": "カビゴン", "ForceHiddenAbility": true},
+            {"SlotType": "Event5", "Name": "カビゴン", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "カイリキー"},
+            {"SlotType": "Event5", "Name": "カイリキー", "ForceHiddenAbility": true},
+            {"SlotType": "Event5", "Name": "カイリキー", "Form": "キョダイ"}
+        ]
+    ],
+    "ShTable": [
+        [
+            {"SlotType": "Event1", "Name": "ゴンベ"},
+            {"SlotType": "Event1", "Name": "ゴンベ", "ForceHiddenAbility": true},
+            {"SlotType": "Event1", "Name": "ゴース"},
+            {"SlotType": "Event1", "Name": "ゴース", "ForceHiddenAbility": true},
+            {"SlotType": "Event1", "Name": "ワンリキー"},
+            {"SlotType": "Event1", "Name": "ワンリキー", "ForceHiddenAbility": true}
+        ],
+        [
+            {"SlotType": "Event2", "Name": "カビゴン"},
+            {"SlotType": "Event2", "Name": "カビゴン", "ForceHiddenAbility": true},
+            {"SlotType": "Event2", "Name": "ゴースト"},
+            {"SlotType": "Event2", "Name": "ゴースト", "ForceHiddenAbility": true},
+            {"SlotType": "Event2", "Name": "ゴーリキー"},
+            {"SlotType": "Event2", "Name": "ゴーリキー", "ForceHiddenAbility": true}
+        ],
+        [
+            {"SlotType": "Event3", "Name": "カビゴン"},
+            {"SlotType": "Event3", "Name": "カビゴン", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "ゲンガー"},
+            {"SlotType": "Event3", "Name": "ゲンガー", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "カイリキー"},
+            {"SlotType": "Event3", "Name": "カイリキー", "Form": "キョダイ"}
+        ],
+        [
+            {"SlotType": "Event4", "Name": "カビゴン"},
+            {"SlotType": "Event4", "Name": "カビゴン", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "ゲンガー"},
+            {"SlotType": "Event4", "Name": "ゲンガー", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "カイリキー"},
+            {"SlotType": "Event4", "Name": "カイリキー", "Form": "キョダイ"}
+        ],
+        [
+            {"SlotType": "Event5", "Name": "カビゴン"},
+            {"SlotType": "Event5", "Name": "カビゴン", "ForceHiddenAbility": true},
+            {"SlotType": "Event5", "Name": "カビゴン", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "ゲンガー"},
+            {"SlotType": "Event5", "Name": "ゲンガー", "ForceHiddenAbility": true},
+            {"SlotType": "Event5", "Name": "ゲンガー", "Form": "キョダイ"}
+        ]
+    ]
+}
