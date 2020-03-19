@@ -1,0 +1,87 @@
+{
+    "Label": "Pokedex Completion",
+    "SwTable": [
+        [
+            {"SlotType": "Event1", "Name": "カブルモ"},
+            {"SlotType": "Event1", "Name": "チョボマキ"},
+            {"SlotType": "Event1", "Name": "サニーゴ", "Form": "ガラル"},
+            {"SlotType": "Event1", "Name": "ゴース"},
+            {"SlotType": "Event1", "Name": "バチンウニ"},
+            {"SlotType": "Event1", "Name": "ワンリキー"}
+        ],
+        [
+            {"SlotType": "Event2", "Name": "ポニータ", "Form": "ガラル"},
+            {"SlotType": "Event2", "Name": "カビゴン"},
+            {"SlotType": "Event2", "Name": "サニーゴ", "Form": "ガラル"},
+            {"SlotType": "Event2", "Name": "ゴースト"},
+            {"SlotType": "Event2", "Name": "バチンウニ"},
+            {"SlotType": "Event2", "Name": "ゴーリキー"}
+        ],
+        [
+            {"SlotType": "Event3", "Name": "ポニータ", "Form": "ガラル"},
+            {"SlotType": "Event3", "Name": "カビゴン", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "サニーゴ", "Form": "ガラル"},
+            {"SlotType": "Event3", "Name": "ゲンガー", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "バチンウニ"},
+            {"SlotType": "Event3", "Name": "カイリキー", "Form": "キョダイ"}
+        ],
+        [
+            {"SlotType": "Event4", "Name": "アギルダー"},
+            {"SlotType": "Event4", "Name": "カビゴン", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "シュバルゴ"},
+            {"SlotType": "Event4", "Name": "ゲンガー", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "バチンウニ"},
+            {"SlotType": "Event4", "Name": "カイリキー", "Form": "キョダイ"}
+        ],
+        [
+            {"SlotType": "Event5", "Name": "ヤレユータン"},
+            {"SlotType": "Event5", "Name": "イエッサン", "Form": "♀"},
+            {"SlotType": "Event5", "Name": "カビゴン", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "バルジーナ"},
+            {"SlotType": "Event5", "Name": "ギャロップ", "Form": "ガラル"},
+            {"SlotType": "Event5", "Name": "カイリキー", "Form": "キョダイ"}
+        ]
+    ],
+    "ShTable": [
+        [
+            {"SlotType": "Event1", "Name": "カブルモ"},
+            {"SlotType": "Event1", "Name": "チョボマキ"},
+            {"SlotType": "Event1", "Name": "ダルマッカ", "Form": "ガラル"},
+            {"SlotType": "Event1", "Name": "ゴース"},
+            {"SlotType": "Event1", "Name": "バチンウニ"},
+            {"SlotType": "Event1", "Name": "ワンリキー"}
+        ],
+        [
+            {"SlotType": "Event2", "Name": "カモネギ", "Form": "ガラル"},
+            {"SlotType": "Event2", "Name": "カビゴン"},
+            {"SlotType": "Event2", "Name": "ダルマッカ", "Form": "ガラル"},
+            {"SlotType": "Event2", "Name": "ゴースト"},
+            {"SlotType": "Event2", "Name": "バチンウニ"},
+            {"SlotType": "Event2", "Name": "ゴーリキー"}
+        ],
+        [
+            {"SlotType": "Event3", "Name": "ネギガナイト"},
+            {"SlotType": "Event3", "Name": "カビゴン", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "ダルマッカ", "Form": "ガラル"},
+            {"SlotType": "Event3", "Name": "ゲンガー", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "バチンウニ"},
+            {"SlotType": "Event3", "Name": "カイリキー", "Form": "キョダイ"}
+        ],
+        [
+            {"SlotType": "Event4", "Name": "アギルダー"},
+            {"SlotType": "Event4", "Name": "カビゴン", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "シュバルゴ"},
+            {"SlotType": "Event4", "Name": "ゲンガー", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "バチンウニ"},
+            {"SlotType": "Event4", "Name": "カイリキー", "Form": "キョダイ"}
+        ],
+        [
+            {"SlotType": "Event5", "Name": "ナゲツケサル"},
+            {"SlotType": "Event5", "Name": "イエッサン", "Form": "♂"},
+            {"SlotType": "Event5", "Name": "カビゴン", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "ウォーグル"},
+            {"SlotType": "Event5", "Name": "ネギガナイト"},
+            {"SlotType": "Event5", "Name": "ゲンガー", "Form": "キョダイ"}
+        ]
+    ]
+}
