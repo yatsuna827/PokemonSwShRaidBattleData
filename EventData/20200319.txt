@@ -60,7 +60,7 @@
             {"SlotType": "Event2", "Name": "ゴーリキー"}
         ],
         [
-            {"SlotType": "Event3", "Name": "ネギガナイト"},
+            {"SlotType": "Event3", "Name": "カモネギ", "Form": "ガラル"},
             {"SlotType": "Event3", "Name": "カビゴン", "Form": "キョダイ"},
             {"SlotType": "Event3", "Name": "ダルマッカ", "Form": "ガラル"},
             {"SlotType": "Event3", "Name": "ゲンガー", "Form": "キョダイ"},
