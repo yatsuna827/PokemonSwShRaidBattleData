@@ -18,27 +18,27 @@
             {"SlotType": "Event2", "Name": "ゴーリキー"}
         ],
         [
-            {"SlotType": "Event3", "Name": "ポニータ", "Form": "ガラル"},
+            {"SlotType": "Event3", "Name": "ポニータ", "Form": "ガラル", "ForceHiddenAbility": true},
             {"SlotType": "Event3", "Name": "カビゴン", "Form": "キョダイ"},
-            {"SlotType": "Event3", "Name": "サニーゴ", "Form": "ガラル"},
+            {"SlotType": "Event3", "Name": "サニーゴ", "Form": "ガラル", "ForceHiddenAbility": true},
             {"SlotType": "Event3", "Name": "ゲンガー", "Form": "キョダイ"},
-            {"SlotType": "Event3", "Name": "バチンウニ"},
+            {"SlotType": "Event3", "Name": "バチンウニ", "ForceHiddenAbility": true},
             {"SlotType": "Event3", "Name": "カイリキー", "Form": "キョダイ"}
         ],
         [
-            {"SlotType": "Event4", "Name": "アギルダー"},
+            {"SlotType": "Event4", "Name": "アギルダー", "ForceHiddenAbility": true},
             {"SlotType": "Event4", "Name": "カビゴン", "Form": "キョダイ"},
-            {"SlotType": "Event4", "Name": "シュバルゴ"},
+            {"SlotType": "Event4", "Name": "シュバルゴ", "ForceHiddenAbility": true},
             {"SlotType": "Event4", "Name": "ゲンガー", "Form": "キョダイ"},
-            {"SlotType": "Event4", "Name": "バチンウニ"},
+            {"SlotType": "Event4", "Name": "バチンウニ", "ForceHiddenAbility": true},
             {"SlotType": "Event4", "Name": "カイリキー", "Form": "キョダイ"}
         ],
         [
-            {"SlotType": "Event5", "Name": "ヤレユータン"},
-            {"SlotType": "Event5", "Name": "イエッサン", "Form": "♀"},
+            {"SlotType": "Event5", "Name": "ヤレユータン", "ForceHiddenAbility": true},
+            {"SlotType": "Event5", "Name": "イエッサン", "Form": "♀", "ForceHiddenAbility": true},
             {"SlotType": "Event5", "Name": "カビゴン", "Form": "キョダイ"},
-            {"SlotType": "Event5", "Name": "バルジーナ"},
-            {"SlotType": "Event5", "Name": "ギャロップ", "Form": "ガラル"},
+            {"SlotType": "Event5", "Name": "バルジーナ", "ForceHiddenAbility": true},
+            {"SlotType": "Event5", "Name": "ギャロップ", "Form": "ガラル", "ForceHiddenAbility": true},
             {"SlotType": "Event5", "Name": "カイリキー", "Form": "キョダイ"}
         ]
     ],
@@ -60,27 +60,27 @@
             {"SlotType": "Event2", "Name": "ゴーリキー"}
         ],
         [
-            {"SlotType": "Event3", "Name": "カモネギ", "Form": "ガラル"},
+            {"SlotType": "Event3", "Name": "カモネギ", "Form": "ガラル", "ForceHiddenAbility": true},
             {"SlotType": "Event3", "Name": "カビゴン", "Form": "キョダイ"},
-            {"SlotType": "Event3", "Name": "ダルマッカ", "Form": "ガラル"},
+            {"SlotType": "Event3", "Name": "ダルマッカ", "Form": "ガラル", "ForceHiddenAbility": true},
             {"SlotType": "Event3", "Name": "ゲンガー", "Form": "キョダイ"},
-            {"SlotType": "Event3", "Name": "バチンウニ"},
+            {"SlotType": "Event3", "Name": "バチンウニ", "ForceHiddenAbility": true},
             {"SlotType": "Event3", "Name": "カイリキー", "Form": "キョダイ"}
         ],
         [
-            {"SlotType": "Event4", "Name": "アギルダー"},
+            {"SlotType": "Event4", "Name": "アギルダー", "ForceHiddenAbility": true},
             {"SlotType": "Event4", "Name": "カビゴン", "Form": "キョダイ"},
-            {"SlotType": "Event4", "Name": "シュバルゴ"},
+            {"SlotType": "Event4", "Name": "シュバルゴ", "ForceHiddenAbility": true},
             {"SlotType": "Event4", "Name": "ゲンガー", "Form": "キョダイ"},
-            {"SlotType": "Event4", "Name": "バチンウニ"},
+            {"SlotType": "Event4", "Name": "バチンウニ", "ForceHiddenAbility": true},
             {"SlotType": "Event4", "Name": "カイリキー", "Form": "キョダイ"}
         ],
         [
-            {"SlotType": "Event5", "Name": "ナゲツケサル"},
-            {"SlotType": "Event5", "Name": "イエッサン", "Form": "♂"},
+            {"SlotType": "Event5", "Name": "ナゲツケサル", "ForceHiddenAbility": true},
+            {"SlotType": "Event5", "Name": "イエッサン", "Form": "♂", "ForceHiddenAbility": true},
             {"SlotType": "Event5", "Name": "カビゴン", "Form": "キョダイ"},
-            {"SlotType": "Event5", "Name": "ウォーグル"},
-            {"SlotType": "Event5", "Name": "ネギガナイト"},
+            {"SlotType": "Event5", "Name": "ウォーグル", "ForceHiddenAbility": true},
+            {"SlotType": "Event5", "Name": "ネギガナイト", "ForceHiddenAbility": true},
             {"SlotType": "Event5", "Name": "ゲンガー", "Form": "キョダイ"}
         ]
     ]
