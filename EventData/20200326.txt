@@ -1,0 +1,83 @@
+{
+    "Label": "2020 Early April",
+    "SwTable": [
+        [
+            {"SlotType": "Event1", "Name": "ゾウドウ"},
+            {"SlotType": "Event1", "Name": "ヤブクロン"},
+            {"SlotType": "Event1", "Name": "ヒトカゲ"},
+            {"SlotType": "Event1", "Name": "ヒトカゲ", "ForceHiddenAbility": true},
+            {"SlotType": "Event1", "Name": "ジュラルドン"},
+            {"SlotType": "Event1", "Name": "ジュラルドン", "ForceHiddenAbility": true}
+        ],
+        [
+            {"SlotType": "Event2", "Name": "ゾウドウ"},
+            {"SlotType": "Event2", "Name": "ヤブクロン"},
+            {"SlotType": "Event2", "Name": "リザード"},
+            {"SlotType": "Event2", "Name": "リザード", "ForceHiddenAbility": true},
+            {"SlotType": "Event2", "Name": "ジュラルドン"},
+            {"SlotType": "Event2", "Name": "ジュラルドン", "ForceHiddenAbility": true}
+        ],
+        [
+            {"SlotType": "Event3", "Name": "ダイオウドウ", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "ダストダス", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "リザードン", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "リザードン", "Form": "キョダイ", "ForceHiddenAbility": true},
+            {"SlotType": "Event3", "Name": "ジュラルドン", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "ジュラルドン", "Form": "キョダイ", "ForceHiddenAbility": true}
+        ],
+        [
+            {"SlotType": "Event4", "Name": "ダイオウドウ", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "ダストダス", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "リザードン", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "リザードン", "Form": "キョダイ", "ForceHiddenAbility": true},
+            {"SlotType": "Event4", "Name": "ジュラルドン", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "ジュラルドン", "Form": "キョダイ", "ForceHiddenAbility": true}
+        ],
+        [
+            {"SlotType": "Event5", "Name": "ダイオウドウ", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "ダイオウドウ", "Form": "キョダイ", "ForceHiddenAbility": true},
+            {"SlotType": "Event5", "Name": "ジュラルドン", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "ジュラルドン", "Form": "キョダイ", "ForceHiddenAbility": true}
+        ]
+    ],
+    "ShTable": [
+        [
+            {"SlotType": "Event1", "Name": "ゾウドウ"},
+            {"SlotType": "Event1", "Name": "ヤブクロン"},
+            {"SlotType": "Event1", "Name": "ヒトカゲ"},
+            {"SlotType": "Event1", "Name": "ヒトカゲ", "ForceHiddenAbility": true},
+            {"SlotType": "Event1", "Name": "ジュラルドン"},
+            {"SlotType": "Event1", "Name": "ジュラルドン", "ForceHiddenAbility": true}
+        ],
+        [
+            {"SlotType": "Event2", "Name": "ゾウドウ"},
+            {"SlotType": "Event2", "Name": "ヤブクロン"},
+            {"SlotType": "Event2", "Name": "リザード"},
+            {"SlotType": "Event2", "Name": "リザード", "ForceHiddenAbility": true},
+            {"SlotType": "Event2", "Name": "ジュラルドン"},
+            {"SlotType": "Event2", "Name": "ジュラルドン", "ForceHiddenAbility": true}
+        ],
+        [
+            {"SlotType": "Event3", "Name": "ダイオウドウ", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "ダストダス", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "リザードン", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "リザードン", "Form": "キョダイ", "ForceHiddenAbility": true},
+            {"SlotType": "Event3", "Name": "ジュラルドン", "Form": "キョダイ"},
+            {"SlotType": "Event3", "Name": "ジュラルドン", "Form": "キョダイ", "ForceHiddenAbility": true}
+        ],
+        [
+            {"SlotType": "Event4", "Name": "ダイオウドウ", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "ダストダス", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "リザードン", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "リザードン", "Form": "キョダイ", "ForceHiddenAbility": true},
+            {"SlotType": "Event4", "Name": "ジュラルドン", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "ジュラルドン", "Form": "キョダイ", "ForceHiddenAbility": true}
+        ],
+        [
+            {"SlotType": "Event5", "Name": "ダストダス", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "ダストダス", "Form": "キョダイ", "ForceHiddenAbility": true},
+            {"SlotType": "Event5", "Name": "リザードン", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "リザードン", "Form": "キョダイ", "ForceHiddenAbility": true}
+        ]
+    ]
+}
