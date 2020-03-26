@@ -37,7 +37,7 @@
             {"SlotType": "Event5", "Name": "キングラー", "Form": "キョダイ"},
             {"SlotType": "Event5", "Name": "オーロンゲ", "Form": "キョダイ"},
             {"SlotType": "Event5", "Name": "ストリンダー", "Form": "ハイキョダイ"},
-            {"SlotType": "Event5", "Name": "ミュウツー", "isUncatchable": true}
+            {"SlotType": "Event5", "Name": "ミュウツー", "isUncatchable": true, "isShinyLocked": true}
         ]
     ],
     "ShTable": [
@@ -77,7 +77,7 @@
             {"SlotType": "Event5", "Name": "イオルブ", "Form": "キョダイ"},
             {"SlotType": "Event5", "Name": "ブリムオン", "Form": "キョダイ"},
             {"SlotType": "Event5", "Name": "ストリンダー", "Form": "ローキョダイ"},
-            {"SlotType": "Event5", "Name": "ミュウツー", "isUncatchable": true}
+            {"SlotType": "Event5", "Name": "ミュウツー", "isUncatchable": true, "isShinyLocked": true}
         ]
     ]
 }

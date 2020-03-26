@@ -76,8 +76,8 @@
         [
             {"SlotType": "Event5", "Name": "ダストダス", "Form": "キョダイ"},
             {"SlotType": "Event5", "Name": "ダストダス", "Form": "キョダイ", "ForceHiddenAbility": true},
-            {"SlotType": "Event5", "Name": "リザードン", "Form": "キョダイ"},
-            {"SlotType": "Event5", "Name": "リザードン", "Form": "キョダイ", "ForceHiddenAbility": true}
+            {"SlotType": "Event5", "Name": "リザードン", "Form": "キョダイ", "isShinyLocked": true},
+            {"SlotType": "Event5", "Name": "リザードン", "Form": "キョダイ", "isShinyLocked": true, "ForceHiddenAbility": true}
         ]
     ]
 }
