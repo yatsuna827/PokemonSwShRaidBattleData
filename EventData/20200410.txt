@@ -1,0 +1,87 @@
+{
+    "Label": "2020 Easter",
+    "SwTable": [
+        [
+            {"SlotType": "Event1", "Name": "ゾウドウ"},
+            {"SlotType": "Event1", "Name": "ヤブクロン"},
+            {"SlotType": "Event1", "Name": "ヒトカゲ"},
+            {"SlotType": "Event1", "Name": "ヒトカゲ", "ForceHiddenAbility": true},
+            {"SlotType": "Event1", "Name": "ジュラルドン"},
+            {"SlotType": "Event1", "Name": "ジュラルドン", "ForceHiddenAbility": true}
+        ],
+        [
+            {"SlotType": "Event2", "Name": "ゾウドウ"},
+            {"SlotType": "Event2", "Name": "ヤブクロン"},
+            {"SlotType": "Event2", "Name": "リザード"},
+            {"SlotType": "Event2", "Name": "ジュラルドン"}
+        ],
+        [
+            {"SlotType": "Event2", "Name": "エレズン"},
+            {"SlotType": "Event2", "Name": "タマンタ"},
+            {"SlotType": "Event3", "Name": "スボミー"},
+            {"SlotType": "Event3", "Name": "バルキー"},
+            {"SlotType": "Event3", "Name": "ウソハチ"},
+            {"SlotType": "Event3", "Name": "リオル"},
+            {"SlotType": "Event3", "Name": "ゴンベ"},
+            {"SlotType": "Event3", "Name": "マネネ"}
+        ],
+        [
+            {"SlotType": "Event4", "Name": "トゲピー"},
+            {"SlotType": "Event4", "Name": "ソーナノ"},
+            {"SlotType": "Event4", "Name": "ピィ"},
+            {"SlotType": "Event4", "Name": "リザードン", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "ピチュー"},
+            {"SlotType": "Event4", "Name": "ジュラルドン", "Form": "キョダイ"}
+        ],
+        [
+            {"SlotType": "Event5", "Name": "メタモン"},
+            {"SlotType": "Event5", "Name": "ダイオウドウ", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "ダイオウドウ", "Form": "キョダイ", "ForceHiddenAbility": true},
+            {"SlotType": "Event5", "Name": "メタモン"},
+            {"SlotType": "Event5", "Name": "ジュラルドン", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "ジュラルドン", "Form": "キョダイ", "ForceHiddenAbility": true}
+        ]
+    ],
+    "ShTable": [
+        [
+            {"SlotType": "Event1", "Name": "ゾウドウ"},
+            {"SlotType": "Event1", "Name": "ヤブクロン"},
+            {"SlotType": "Event1", "Name": "ヒトカゲ"},
+            {"SlotType": "Event1", "Name": "ヒトカゲ", "ForceHiddenAbility": true},
+            {"SlotType": "Event1", "Name": "ジュラルドン"},
+            {"SlotType": "Event1", "Name": "ジュラルドン", "ForceHiddenAbility": true}
+        ],
+        [
+            {"SlotType": "Event2", "Name": "ゾウドウ"},
+            {"SlotType": "Event2", "Name": "ヤブクロン"},
+            {"SlotType": "Event2", "Name": "リザード"},
+            {"SlotType": "Event2", "Name": "ジュラルドン"}
+        ],
+        [
+            {"SlotType": "Event2", "Name": "エレズン"},
+            {"SlotType": "Event2", "Name": "タマンタ"},
+            {"SlotType": "Event3", "Name": "スボミー"},
+            {"SlotType": "Event3", "Name": "バルキー"},
+            {"SlotType": "Event3", "Name": "ウソハチ"},
+            {"SlotType": "Event3", "Name": "リオル"},
+            {"SlotType": "Event3", "Name": "ゴンベ"},
+            {"SlotType": "Event3", "Name": "マネネ"}
+        ],
+        [
+            {"SlotType": "Event4", "Name": "トゲピー"},
+            {"SlotType": "Event4", "Name": "ソーナノ"},
+            {"SlotType": "Event4", "Name": "ピィ"},
+            {"SlotType": "Event4", "Name": "リザードン", "Form": "キョダイ"},
+            {"SlotType": "Event4", "Name": "ピチュー"},
+            {"SlotType": "Event4", "Name": "ジュラルドン", "Form": "キョダイ"}
+        ],
+        [
+            {"SlotType": "Event5", "Name": "メタモン"},
+            {"SlotType": "Event5", "Name": "ダストダス", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "ダストダス", "Form": "キョダイ", "ForceHiddenAbility": true},
+            {"SlotType": "Event5", "Name": "メタモン"},
+            {"SlotType": "Event5", "Name": "リザードン", "Form": "キョダイ"},
+            {"SlotType": "Event5", "Name": "リザードン", "Form": "キョダイ", "ForceHiddenAbility": true}
+        ]
+    ]
+}
