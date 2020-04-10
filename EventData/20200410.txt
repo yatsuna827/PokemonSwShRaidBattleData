@@ -37,7 +37,6 @@
             {"SlotType": "Event5", "Name": "メタモン"},
             {"SlotType": "Event5", "Name": "ダイオウドウ", "Form": "キョダイ"},
             {"SlotType": "Event5", "Name": "ダイオウドウ", "Form": "キョダイ", "ForceHiddenAbility": true},
-            {"SlotType": "Event5", "Name": "メタモン"},
             {"SlotType": "Event5", "Name": "ジュラルドン", "Form": "キョダイ"},
             {"SlotType": "Event5", "Name": "ジュラルドン", "Form": "キョダイ", "ForceHiddenAbility": true}
         ]
@@ -79,7 +78,6 @@
             {"SlotType": "Event5", "Name": "メタモン"},
             {"SlotType": "Event5", "Name": "ダストダス", "Form": "キョダイ"},
             {"SlotType": "Event5", "Name": "ダストダス", "Form": "キョダイ", "ForceHiddenAbility": true},
-            {"SlotType": "Event5", "Name": "メタモン"},
             {"SlotType": "Event5", "Name": "リザードン", "Form": "キョダイ"},
             {"SlotType": "Event5", "Name": "リザードン", "Form": "キョダイ", "ForceHiddenAbility": true}
         ]
