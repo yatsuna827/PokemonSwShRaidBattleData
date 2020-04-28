@@ -1,0 +1,87 @@
+{
+  "Label": "2020 May",
+  "SwTable": [
+    [
+      { "SlotType": "Event1", "Name": "ヨーギラス" },
+      { "SlotType": "Event1", "Name": "ロトム", "Form": "ヒート" },
+      { "SlotType": "Event1", "Name": "モグリュー" },
+      { "SlotType": "Event1", "Name": "モンメン" },
+      { "SlotType": "Event1", "Name": "ドラメシヤ" },
+      { "SlotType": "Event1", "Name": "トゲピー" }
+    ],
+    [
+      { "SlotType": "Event2", "Name": "サナギラス" },
+      { "SlotType": "Event2", "Name": "ロトム", "Form": "ヒート" },
+      { "SlotType": "Event2", "Name": "モグリュー" },
+      { "SlotType": "Event2", "Name": "モンメン" },
+      { "SlotType": "Event2", "Name": "ドロンチ" },
+      { "SlotType": "Event2", "Name": "トゲチック" }
+    ],
+    [
+      { "SlotType": "Event3", "Name": "バンギラス" },
+      { "SlotType": "Event3", "Name": "ロトム", "Form": "ヒート" },
+      { "SlotType": "Event3", "Name": "ドリュウズ" },
+      { "SlotType": "Event3", "Name": "エルフーン" },
+      { "SlotType": "Event3", "Name": "ドラパルト" },
+      { "SlotType": "Event3", "Name": "トゲキッス" }
+    ],
+    [
+      { "SlotType": "Event4", "Name": "バンギラス" },
+      { "SlotType": "Event4", "Name": "ロトム", "Form": "ヒート" },
+      { "SlotType": "Event4", "Name": "ドリュウズ" },
+      { "SlotType": "Event4", "Name": "エルフーン" },
+      { "SlotType": "Event4", "Name": "ドラパルト" },
+      { "SlotType": "Event4", "Name": "トゲキッス" }
+    ],
+    [
+      { "SlotType": "Event5", "Name": "バンギラス" },
+      { "SlotType": "Event5", "Name": "ロトム", "Form": "ヒート" },
+      { "SlotType": "Event5", "Name": "ドリュウズ" },
+      { "SlotType": "Event5", "Name": "エルフーン" },
+      { "SlotType": "Event5", "Name": "ドラパルト" },
+      { "SlotType": "Event5", "Name": "トゲキッス" }
+    ]
+  ],
+  "ShTable": [
+    [
+      { "SlotType": "Event1", "Name": "ヨーギラス" },
+      { "SlotType": "Event1", "Name": "ロトム", "Form": "ウォッシュ" },
+      { "SlotType": "Event1", "Name": "モグリュー" },
+      { "SlotType": "Event1", "Name": "モンメン" },
+      { "SlotType": "Event1", "Name": "ドラメシヤ" },
+      { "SlotType": "Event1", "Name": "トゲピー" }
+    ],
+    [
+      { "SlotType": "Event2", "Name": "サナギラス" },
+      { "SlotType": "Event2", "Name": "ロトム", "Form": "ウォッシュ" },
+      { "SlotType": "Event2", "Name": "モグリュー" },
+      { "SlotType": "Event2", "Name": "モンメン" },
+      { "SlotType": "Event2", "Name": "ドロンチ" },
+      { "SlotType": "Event2", "Name": "トゲチック" }
+    ],
+    [
+      { "SlotType": "Event3", "Name": "バンギラス" },
+      { "SlotType": "Event3", "Name": "ロトム", "Form": "ウォッシュ" },
+      { "SlotType": "Event3", "Name": "ドリュウズ" },
+      { "SlotType": "Event3", "Name": "エルフーン" },
+      { "SlotType": "Event3", "Name": "ドラパルト" },
+      { "SlotType": "Event3", "Name": "トゲキッス" }
+    ],
+    [
+      { "SlotType": "Event4", "Name": "バンギラス" },
+      { "SlotType": "Event4", "Name": "ロトム", "Form": "ウォッシュ" },
+      { "SlotType": "Event4", "Name": "ドリュウズ" },
+      { "SlotType": "Event4", "Name": "エルフーン" },
+      { "SlotType": "Event4", "Name": "ドラパルト" },
+      { "SlotType": "Event4", "Name": "トゲキッス" }
+    ],
+    [
+      { "SlotType": "Event5", "Name": "バンギラス" },
+      { "SlotType": "Event5", "Name": "ロトム", "Form": "ウォッシュ" },
+      { "SlotType": "Event5", "Name": "ドリュウズ" },
+      { "SlotType": "Event5", "Name": "エルフーン" },
+      { "SlotType": "Event5", "Name": "ドラパルト" },
+      { "SlotType": "Event5", "Name": "トゲキッス" }
+    ]
+  ]
+}
