@@ -1,0 +1,37 @@
+{
+  "Label": "Gigantamax Pikachu",
+  "SwTable": [
+    [
+      { "SlotType": "Event1", "Name": "ピカチュウ", "Form": "キョダイ" }
+    ],
+    [
+      { "SlotType": "Event2", "Name": "ピカチュウ", "Form": "キョダイ" }
+    ],
+    [
+      { "SlotType": "Event3", "Name": "ピカチュウ", "Form": "キョダイ" }
+    ],
+    [
+      { "SlotType": "Event4", "Name": "ピカチュウ", "Form": "キョダイ" }
+    ],
+    [
+      { "SlotType": "Event5", "Name": "ピカチュウ", "Form": "キョダイ" }
+    ]
+  ],
+  "ShTable": [
+    [
+      { "SlotType": "Event1", "Name": "ピカチュウ", "Form": "キョダイ" }
+    ],
+    [
+      { "SlotType": "Event2", "Name": "ピカチュウ", "Form": "キョダイ" }
+    ],
+    [
+      { "SlotType": "Event3", "Name": "ピカチュウ", "Form": "キョダイ" }
+    ],
+    [
+      { "SlotType": "Event4", "Name": "ピカチュウ", "Form": "キョダイ" }
+    ],
+    [
+      { "SlotType": "Event5", "Name": "ピカチュウ", "Form": "キョダイ" }
+    ]
+  ]
+}
