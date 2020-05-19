@@ -1,0 +1,37 @@
+{
+  "Label": "Gigantamax Meowth",
+  "SwTable": [
+    [
+      { "SlotType": "Event1", "Name": "ニャース", "Form": "キョダイ" }
+    ],
+    [
+      { "SlotType": "Event2", "Name": "ニャース", "Form": "キョダイ" }
+    ],
+    [
+      { "SlotType": "Event3", "Name": "ニャース", "Form": "キョダイ" }
+    ],
+    [
+      { "SlotType": "Event4", "Name": "ニャース", "Form": "キョダイ" }
+    ],
+    [
+      { "SlotType": "Event5", "Name": "ニャース", "Form": "キョダイ" }
+    ]
+  ],
+  "ShTable": [
+    [
+      { "SlotType": "Event1", "Name": "ニャース", "Form": "キョダイ" }
+    ],
+    [
+      { "SlotType": "Event2", "Name": "ニャース", "Form": "キョダイ" }
+    ],
+    [
+      { "SlotType": "Event3", "Name": "ニャース", "Form": "キョダイ" }
+    ],
+    [
+      { "SlotType": "Event4", "Name": "ニャース", "Form": "キョダイ" }
+    ],
+    [
+      { "SlotType": "Event5", "Name": "ニャース", "Form": "キョダイ" }
+    ]
+  ]
+}
