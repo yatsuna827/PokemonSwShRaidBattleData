@@ -1,0 +1,37 @@
+{
+  "Label": "Gigantamax Eevee",
+  "SwTable": [
+    [
+      { "SlotType": "Event1", "Name": "イーブイ", "Form": "キョダイ" }
+    ],
+    [
+      { "SlotType": "Event2", "Name": "イーブイ", "Form": "キョダイ" }
+    ],
+    [
+      { "SlotType": "Event3", "Name": "イーブイ", "Form": "キョダイ" }
+    ],
+    [
+      { "SlotType": "Event4", "Name": "イーブイ", "Form": "キョダイ" }
+    ],
+    [
+      { "SlotType": "Event5", "Name": "イーブイ", "Form": "キョダイ" }
+    ]
+  ],
+  "ShTable": [
+    [
+      { "SlotType": "Event1", "Name": "イーブイ", "Form": "キョダイ" }
+    ],
+    [
+      { "SlotType": "Event2", "Name": "イーブイ", "Form": "キョダイ" }
+    ],
+    [
+      { "SlotType": "Event3", "Name": "イーブイ", "Form": "キョダイ" }
+    ],
+    [
+      { "SlotType": "Event4", "Name": "イーブイ", "Form": "キョダイ" }
+    ],
+    [
+      { "SlotType": "Event5", "Name": "イーブイ", "Form": "キョダイ" }
+    ]
+  ]
+}
