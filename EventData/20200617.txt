@@ -1,0 +1,63 @@
+{
+  "Label": "Zeraora",
+  "SwTable": [
+    [
+        { "SlotType": "Event1", "Name": "カビゴン", "Form": "キョダイ" }
+    ],
+    [
+        { "SlotType": "Event2", "Name": "ラプラス", "Form": "キョダイ" }
+    ],
+    [
+        { "SlotType": "Event3", "Name": "ゼラオラ", "isUncatchable": true, "isShinyLocked": true },
+        { "SlotType": "Event3", "Name": "キングラー", "Form": "キョダイ" },
+        { "SlotType": "Event3", "Name": "タルップル", "Form": "キョダイ" },
+        { "SlotType": "Event3", "Name": "マルヤクデ", "Form": "キョダイ" }
+    ],
+    [
+        { "SlotType": "Event4", "Name": "ゼラオラ", "isUncatchable": true, "isShinyLocked": true },
+        { "SlotType": "Event4", "Name": "アーマーガア", "Form": "キョダイ" },
+        { "SlotType": "Event4", "Name": "オーロンゲ", "Form": "キョダイ" },
+        { "SlotType": "Event4", "Name": "ダストダス", "Form": "キョダイ" },
+        { "SlotType": "Event4", "Name": "マホイップ", "Form": "キョダイ" }
+    ],
+    [
+        { "SlotType": "Event5", "Name": "ゼラオラ", "isUncatchable": true, "isShinyLocked": true },
+        { "SlotType": "Event5", "Name": "ゼラオラ", "isUncatchable": true, "ForceShiny": true },
+        { "SlotType": "Event5", "Name": "ラプラス", "Form": "キョダイ" },
+        { "SlotType": "Event5", "Name": "ストリンダー", "Form": "ハイキョダイ" },
+        { "SlotType": "Event5", "Name": "ゲンガー", "Form": "キョダイ" },
+        { "SlotType": "Event5", "Name": "ジュラルドン", "Form": "キョダイ" },
+        { "SlotType": "Event5", "Name": "カビゴン", "Form": "キョダイ" }
+    ]
+  ],
+  "ShTable": [
+    [
+        { "SlotType": "Event1", "Name": "カビゴン", "Form": "キョダイ" }
+    ],
+    [
+        { "SlotType": "Event2", "Name": "カイリキー", "Form": "キョダイ" }
+    ],
+    [
+        { "SlotType": "Event3", "Name": "ゼラオラ", "isUncatchable": true, "isShinyLocked": true },
+        { "SlotType": "Event3", "Name": "イオルブ", "Form": "キョダイ" },
+        { "SlotType": "Event3", "Name": "アップリュー", "Form": "キョダイ" },
+        { "SlotType": "Event3", "Name": "サダイジャ", "Form": "キョダイ" }
+    ],
+    [
+        { "SlotType": "Event4", "Name": "ゼラオラ", "isUncatchable": true, "isShinyLocked": true },
+        { "SlotType": "Event4", "Name": "カジリガメ", "Form": "キョダイ" },
+        { "SlotType": "Event4", "Name": "ブリムオン", "Form": "キョダイ" },
+        { "SlotType": "Event4", "Name": "リザードン", "Form": "キョダイ" },
+        { "SlotType": "Event4", "Name": "バタフリー", "Form": "キョダイ" }
+    ],
+    [
+        { "SlotType": "Event5", "Name": "ゼラオラ", "isUncatchable": true, "isShinyLocked": true },
+        { "SlotType": "Event5", "Name": "ゼラオラ", "isUncatchable": true, "ForceShiny": true },
+        { "SlotType": "Event5", "Name": "ストリンダー", "Form": "ローキョダイ" },
+        { "SlotType": "Event5", "Name": "セキタンザン", "Form": "キョダイ" },
+        { "SlotType": "Event5", "Name": "カイリキー", "Form": "キョダイ" },
+        { "SlotType": "Event5", "Name": "ダイオウドウ", "Form": "キョダイ" },
+        { "SlotType": "Event5", "Name": "カビゴン", "Form": "キョダイ" }
+    ]
+  ]
+}
