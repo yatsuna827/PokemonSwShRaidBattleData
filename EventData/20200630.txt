@@ -1,0 +1,87 @@
+{
+    "Label": "2020 July",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "ゾウドウ" },
+            { "SlotType": "Event1", "Name": "ハガネール" },
+            { "SlotType": "Event1", "Name": "ニャース", "Form": "ガラル" },
+            { "SlotType": "Event1", "Name": "タンドン" },
+            { "SlotType": "Event1", "Name": "サイホーン" },
+            { "SlotType": "Event1", "Name": "イワーク" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ゾウドウ" },
+            { "SlotType": "Event2", "Name": "ハガネール" },
+            { "SlotType": "Event2", "Name": "ニャイキング" },
+            { "SlotType": "Event2", "Name": "トロッゴン" },
+            { "SlotType": "Event2", "Name": "サイホーン" },
+            { "SlotType": "Event2", "Name": "イワーク" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ダイオウドウ", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "ハガネール" },
+            { "SlotType": "Event3", "Name": "ニャイキング" },
+            { "SlotType": "Event3", "Name": "セキタンザン", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "サイドン" },
+            { "SlotType": "Event3", "Name": "イワーク" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ダイオウドウ", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "ハガネール" },
+            { "SlotType": "Event4", "Name": "ニャイキング" },
+            { "SlotType": "Event4", "Name": "セキタンザン", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "ドサイドン" },
+            { "SlotType": "Event4", "Name": "イワーク" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ダイオウドウ", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "ハガネール" },
+            { "SlotType": "Event5", "Name": "ニャイキング" },
+            { "SlotType": "Event5", "Name": "セキタンザン", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "ドサイドン" },
+            { "SlotType": "Event5", "Name": "イワーク" }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "ゾウドウ" },
+            { "SlotType": "Event1", "Name": "ハガネール" },
+            { "SlotType": "Event1", "Name": "ニャース", "Form": "ガラル" },
+            { "SlotType": "Event1", "Name": "タンドン" },
+            { "SlotType": "Event1", "Name": "サイホーン" },
+            { "SlotType": "Event1", "Name": "イワーク" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ゾウドウ" },
+            { "SlotType": "Event2", "Name": "ハガネール" },
+            { "SlotType": "Event2", "Name": "ニャイキング" },
+            { "SlotType": "Event2", "Name": "トロッゴン" },
+            { "SlotType": "Event2", "Name": "サイホーン" },
+            { "SlotType": "Event2", "Name": "イワーク" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ダイオウドウ", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "ハガネール" },
+            { "SlotType": "Event3", "Name": "ニャイキング" },
+            { "SlotType": "Event3", "Name": "セキタンザン", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "サイドン" },
+            { "SlotType": "Event3", "Name": "イワーク" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ダイオウドウ", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "ハガネール" },
+            { "SlotType": "Event4", "Name": "ニャイキング" },
+            { "SlotType": "Event4", "Name": "セキタンザン", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "ドサイドン" },
+            { "SlotType": "Event4", "Name": "イワーク" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ダイオウドウ", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "ハガネール" },
+            { "SlotType": "Event5", "Name": "ニャイキング" },
+            { "SlotType": "Event5", "Name": "セキタンザン", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "ドサイドン" },
+            { "SlotType": "Event5", "Name": "イワーク" }
+        ]
+    ]
+}
