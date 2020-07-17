@@ -1,0 +1,87 @@
+{
+    "Label": "Sea Pokemon Invasion",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "ホエルコ" },
+            { "SlotType": "Event1", "Name": "クラブ" },
+            { "SlotType": "Event1", "Name": "ナマコブシ" },
+            { "SlotType": "Event1", "Name": "プルリル" },
+            { "SlotType": "Event1", "Name": "タマンタ" },
+            { "SlotType": "Event1", "Name": "キバニア" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ホエルコ" },
+            { "SlotType": "Event2", "Name": "クラブ" },
+            { "SlotType": "Event2", "Name": "ナマコブシ" },
+            { "SlotType": "Event2", "Name": "プルリル" },
+            { "SlotType": "Event2", "Name": "タマンタ" },
+            { "SlotType": "Event2", "Name": "サメハダー" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ホエルオー" },
+            { "SlotType": "Event3", "Name": "キングラー" },
+            { "SlotType": "Event3", "Name": "ナマコブシ" },
+            { "SlotType": "Event3", "Name": "ブルンゲル" },
+            { "SlotType": "Event3", "Name": "マンタイン" },
+            { "SlotType": "Event3", "Name": "サメハダー" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ホエルオー" },
+            { "SlotType": "Event4", "Name": "キングラー", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "ナマコブシ" },
+            { "SlotType": "Event4", "Name": "ブルンゲル" },
+            { "SlotType": "Event4", "Name": "マンタイン" },
+            { "SlotType": "Event4", "Name": "サメハダー" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ホエルオー" },
+            { "SlotType": "Event5", "Name": "ホエルオー", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "ナマコブシ" },
+            { "SlotType": "Event5", "Name": "ブルンゲル" },
+            { "SlotType": "Event5", "Name": "マンタイン" },
+            { "SlotType": "Event5", "Name": "サメハダー" }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "ホエルコ" },
+            { "SlotType": "Event1", "Name": "クラブ" },
+            { "SlotType": "Event1", "Name": "ナマコブシ" },
+            { "SlotType": "Event1", "Name": "プルリル" },
+            { "SlotType": "Event1", "Name": "タマンタ" },
+            { "SlotType": "Event1", "Name": "キバニア" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ホエルコ" },
+            { "SlotType": "Event2", "Name": "クラブ" },
+            { "SlotType": "Event2", "Name": "ナマコブシ" },
+            { "SlotType": "Event2", "Name": "プルリル" },
+            { "SlotType": "Event2", "Name": "タマンタ" },
+            { "SlotType": "Event2", "Name": "サメハダー" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ホエルオー" },
+            { "SlotType": "Event3", "Name": "キングラー" },
+            { "SlotType": "Event3", "Name": "ナマコブシ" },
+            { "SlotType": "Event3", "Name": "ブルンゲル" },
+            { "SlotType": "Event3", "Name": "マンタイン" },
+            { "SlotType": "Event3", "Name": "サメハダー" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ホエルオー" },
+            { "SlotType": "Event4", "Name": "キングラー", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "ナマコブシ" },
+            { "SlotType": "Event4", "Name": "ブルンゲル" },
+            { "SlotType": "Event4", "Name": "マンタイン" },
+            { "SlotType": "Event4", "Name": "サメハダー" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ホエルオー" },
+            { "SlotType": "Event5", "Name": "ホエルオー", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "ナマコブシ" },
+            { "SlotType": "Event5", "Name": "ブルンゲル" },
+            { "SlotType": "Event5", "Name": "マンタイン" },
+            { "SlotType": "Event5", "Name": "サメハダー" }
+        ]
+    ]
+}
