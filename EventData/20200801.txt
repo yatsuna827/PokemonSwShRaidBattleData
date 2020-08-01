@@ -12,7 +12,7 @@
         [
             { "SlotType": "Event2", "Name": "カジリガメ", "Form": "キョダイ" },
             { "SlotType": "Event2", "Name": "ヒンバス" },
-            { "SlotType": "Event2", "Name": "ヌオー" },
+            { "SlotType": "Event2", "Name": "ウパー" },
             { "SlotType": "Event2", "Name": "スナヘビ" },
             { "SlotType": "Event2", "Name": "ヒポポタス" },
             { "SlotType": "Event2", "Name": "トリトドン" }
@@ -20,7 +20,7 @@
         [
             { "SlotType": "Event3", "Name": "カジリガメ", "Form": "キョダイ" },
             { "SlotType": "Event3", "Name": "ミロカロス" },
-            { "SlotType": "Event3", "Name": "ウパー" },
+            { "SlotType": "Event3", "Name": "ヌオー" },
             { "SlotType": "Event3", "Name": "サダイジャ", "Form": "キョダイ" },
             { "SlotType": "Event3", "Name": "カバルドン" },
             { "SlotType": "Event3", "Name": "トリトドン" }
@@ -54,7 +54,7 @@
         [
             { "SlotType": "Event2", "Name": "カジリガメ", "Form": "キョダイ" },
             { "SlotType": "Event2", "Name": "ヒンバス" },
-            { "SlotType": "Event2", "Name": "ヌオー" },
+            { "SlotType": "Event2", "Name": "ウパー" },
             { "SlotType": "Event2", "Name": "スナヘビ" },
             { "SlotType": "Event2", "Name": "ヒポポタス" },
             { "SlotType": "Event2", "Name": "トリトドン" }
@@ -62,7 +62,7 @@
         [
             { "SlotType": "Event3", "Name": "カジリガメ", "Form": "キョダイ" },
             { "SlotType": "Event3", "Name": "ミロカロス" },
-            { "SlotType": "Event3", "Name": "ウパー" },
+            { "SlotType": "Event3", "Name": "ヌオー" },
             { "SlotType": "Event3", "Name": "サダイジャ", "Form": "キョダイ" },
             { "SlotType": "Event3", "Name": "カバルドン" },
             { "SlotType": "Event3", "Name": "トリトドン" }
