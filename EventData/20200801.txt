@@ -1,0 +1,87 @@
+{
+    "Label": "2020 August",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "カムカメ" },
+            { "SlotType": "Event1", "Name": "ヒンバス" },
+            { "SlotType": "Event1", "Name": "ウパー" },
+            { "SlotType": "Event1", "Name": "スナヘビ" },
+            { "SlotType": "Event1", "Name": "ヒポポタス" },
+            { "SlotType": "Event1", "Name": "カラナクシ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "カジリガメ", "Form": "キョダイ" },
+            { "SlotType": "Event2", "Name": "ヒンバス" },
+            { "SlotType": "Event2", "Name": "ヌオー" },
+            { "SlotType": "Event2", "Name": "スナヘビ" },
+            { "SlotType": "Event2", "Name": "ヒポポタス" },
+            { "SlotType": "Event2", "Name": "トリトドン" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "カジリガメ", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "ミロカロス" },
+            { "SlotType": "Event3", "Name": "ウパー" },
+            { "SlotType": "Event3", "Name": "サダイジャ", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "カバルドン" },
+            { "SlotType": "Event3", "Name": "トリトドン" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "カジリガメ", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "ミロカロス" },
+            { "SlotType": "Event4", "Name": "ヌオー" },
+            { "SlotType": "Event4", "Name": "サダイジャ", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "カバルドン" },
+            { "SlotType": "Event4", "Name": "トリトドン" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "カジリガメ", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "ミロカロス" },
+            { "SlotType": "Event5", "Name": "ヌオー" },
+            { "SlotType": "Event5", "Name": "サダイジャ", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "カバルドン" },
+            { "SlotType": "Event5", "Name": "トリトドン" }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "カムカメ" },
+            { "SlotType": "Event1", "Name": "ヒンバス" },
+            { "SlotType": "Event1", "Name": "ウパー" },
+            { "SlotType": "Event1", "Name": "スナヘビ" },
+            { "SlotType": "Event1", "Name": "ヒポポタス" },
+            { "SlotType": "Event1", "Name": "カラナクシ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "カジリガメ", "Form": "キョダイ" },
+            { "SlotType": "Event2", "Name": "ヒンバス" },
+            { "SlotType": "Event2", "Name": "ヌオー" },
+            { "SlotType": "Event2", "Name": "スナヘビ" },
+            { "SlotType": "Event2", "Name": "ヒポポタス" },
+            { "SlotType": "Event2", "Name": "トリトドン" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "カジリガメ", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "ミロカロス" },
+            { "SlotType": "Event3", "Name": "ウパー" },
+            { "SlotType": "Event3", "Name": "サダイジャ", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "カバルドン" },
+            { "SlotType": "Event3", "Name": "トリトドン" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "カジリガメ", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "ミロカロス" },
+            { "SlotType": "Event4", "Name": "ヌオー" },
+            { "SlotType": "Event4", "Name": "サダイジャ", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "カバルドン" },
+            { "SlotType": "Event4", "Name": "トリトドン" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "カジリガメ", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "ミロカロス" },
+            { "SlotType": "Event5", "Name": "ヌオー" },
+            { "SlotType": "Event5", "Name": "サダイジャ", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "カバルドン" },
+            { "SlotType": "Event5", "Name": "トリトドン" }
+        ]
+    ]
+}
