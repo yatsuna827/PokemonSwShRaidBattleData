@@ -1,0 +1,79 @@
+{
+    "Label": "Pikachu Outbreak",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "ピカチュウ" },
+            { "SlotType": "Event1", "Name": "ライチュウ" },
+            { "SlotType": "Event1", "Name": "ライチュウ", "Form": "アローラ" },
+            { "SlotType": "Event1", "Name": "ピチュー" },
+            { "SlotType": "Event1", "Name": "ミミッキュ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ピカチュウ" },
+            { "SlotType": "Event2", "Name": "ライチュウ" },
+            { "SlotType": "Event2", "Name": "ライチュウ", "Form": "アローラ" },
+            { "SlotType": "Event2", "Name": "ピチュー" },
+            { "SlotType": "Event2", "Name": "ミミッキュ" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ピカチュウ" },
+            { "SlotType": "Event3", "Name": "ライチュウ" },
+            { "SlotType": "Event3", "Name": "ライチュウ", "Form": "アローラ" },
+            { "SlotType": "Event3", "Name": "ピチュー" },
+            { "SlotType": "Event3", "Name": "ミミッキュ" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ピカチュウ" },
+            { "SlotType": "Event4", "Name": "ライチュウ" },
+            { "SlotType": "Event4", "Name": "ライチュウ", "Form": "アローラ" },
+            { "SlotType": "Event4", "Name": "ピチュー" },
+            { "SlotType": "Event4", "Name": "ミミッキュ" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ピカチュウ" },
+            { "SlotType": "Event5", "Name": "ピカチュウ", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "ライチュウ" },
+            { "SlotType": "Event5", "Name": "ライチュウ", "Form": "アローラ" },
+            { "SlotType": "Event5", "Name": "ピチュー" },
+            { "SlotType": "Event5", "Name": "ミミッキュ" }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "ピカチュウ" },
+            { "SlotType": "Event1", "Name": "ライチュウ" },
+            { "SlotType": "Event1", "Name": "ライチュウ", "Form": "アローラ" },
+            { "SlotType": "Event1", "Name": "ピチュー" },
+            { "SlotType": "Event1", "Name": "ミミッキュ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ピカチュウ" },
+            { "SlotType": "Event2", "Name": "ライチュウ" },
+            { "SlotType": "Event2", "Name": "ライチュウ", "Form": "アローラ" },
+            { "SlotType": "Event2", "Name": "ピチュー" },
+            { "SlotType": "Event2", "Name": "ミミッキュ" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ピカチュウ" },
+            { "SlotType": "Event3", "Name": "ライチュウ" },
+            { "SlotType": "Event3", "Name": "ライチュウ", "Form": "アローラ" },
+            { "SlotType": "Event3", "Name": "ピチュー" },
+            { "SlotType": "Event3", "Name": "ミミッキュ" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ピカチュウ" },
+            { "SlotType": "Event4", "Name": "ライチュウ" },
+            { "SlotType": "Event4", "Name": "ライチュウ", "Form": "アローラ" },
+            { "SlotType": "Event4", "Name": "ピチュー" },
+            { "SlotType": "Event4", "Name": "ミミッキュ" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ピカチュウ" },
+            { "SlotType": "Event5", "Name": "ピカチュウ", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "ライチュウ" },
+            { "SlotType": "Event5", "Name": "ライチュウ", "Form": "アローラ" },
+            { "SlotType": "Event5", "Name": "ピチュー" },
+            { "SlotType": "Event5", "Name": "ミミッキュ" }
+        ]
+    ]
+}
