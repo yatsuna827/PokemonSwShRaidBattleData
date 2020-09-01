@@ -1,0 +1,87 @@
+{
+    "Label": "2020 September",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "エレズン" },
+            { "SlotType": "Event1", "Name": "ワンパチ" },
+            { "SlotType": "Event1", "Name": "エレザード" },
+            { "SlotType": "Event1", "Name": "カジッチュ" },
+            { "SlotType": "Event1", "Name": "テッシード" },
+            { "SlotType": "Event1", "Name": "ヒメンカ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ストリンダー", "Form": "ローキョダイ" },
+            { "SlotType": "Event2", "Name": "パルスワン" },
+            { "SlotType": "Event2", "Name": "エレザード" },
+            { "SlotType": "Event2", "Name": "タルップル", "Form": "キョダイ" },
+            { "SlotType": "Event2", "Name": "テッシード" },
+            { "SlotType": "Event2", "Name": "ワタシラガ" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ストリンダー", "Form": "ローキョダイ" },
+            { "SlotType": "Event3", "Name": "パルスワン" },
+            { "SlotType": "Event3", "Name": "エレザード" },
+            { "SlotType": "Event3", "Name": "タルップル", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "ナットレイ" },
+            { "SlotType": "Event3", "Name": "ワタシラガ" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ストリンダー", "Form": "ローキョダイ" },
+            { "SlotType": "Event4", "Name": "パルスワン" },
+            { "SlotType": "Event4", "Name": "エレザード" },
+            { "SlotType": "Event4", "Name": "タルップル", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "ナットレイ" },
+            { "SlotType": "Event4", "Name": "ワタシラガ" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ストリンダー", "Form": "ローキョダイ" },
+            { "SlotType": "Event5", "Name": "パルスワン" },
+            { "SlotType": "Event5", "Name": "エレザード" },
+            { "SlotType": "Event5", "Name": "タルップル", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "ナットレイ" },
+            { "SlotType": "Event5", "Name": "ワタシラガ" }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "エレズン" },
+            { "SlotType": "Event1", "Name": "ワンパチ" },
+            { "SlotType": "Event1", "Name": "エレザード" },
+            { "SlotType": "Event1", "Name": "カジッチュ" },
+            { "SlotType": "Event1", "Name": "テッシード" },
+            { "SlotType": "Event1", "Name": "ヒメンカ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ストリンダー", "Form": "ハイキョダイ" },
+            { "SlotType": "Event2", "Name": "パルスワン" },
+            { "SlotType": "Event2", "Name": "エレザード" },
+            { "SlotType": "Event2", "Name": "アップリュー", "Form": "キョダイ" },
+            { "SlotType": "Event2", "Name": "テッシード" },
+            { "SlotType": "Event2", "Name": "ワタシラガ" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ストリンダー", "Form": "ハイキョダイ" },
+            { "SlotType": "Event3", "Name": "パルスワン" },
+            { "SlotType": "Event3", "Name": "エレザード" },
+            { "SlotType": "Event3", "Name": "アップリュー", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "ナットレイ" },
+            { "SlotType": "Event3", "Name": "ワタシラガ" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ストリンダー", "Form": "ハイキョダイ" },
+            { "SlotType": "Event4", "Name": "パルスワン" },
+            { "SlotType": "Event4", "Name": "エレザード" },
+            { "SlotType": "Event4", "Name": "アップリュー", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "ナットレイ" },
+            { "SlotType": "Event4", "Name": "ワタシラガ" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ストリンダー", "Form": "ハイキョダイ" },
+            { "SlotType": "Event5", "Name": "パルスワン" },
+            { "SlotType": "Event5", "Name": "エレザード" },
+            { "SlotType": "Event5", "Name": "アップリュー", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "ナットレイ" },
+            { "SlotType": "Event5", "Name": "ワタシラガ" }
+        ]
+    ]
+}
