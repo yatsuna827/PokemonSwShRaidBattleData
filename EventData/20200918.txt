@@ -1,0 +1,87 @@
+{
+    "Label": "2020 September",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "ピクシー" },
+            { "SlotType": "Event1", "Name": "プクリン" },
+            { "SlotType": "Event1", "Name": "クサイハナ" },
+            { "SlotType": "Event1", "Name": "ムシャーナ" },
+            { "SlotType": "Event1", "Name": "エルフーン" },
+            { "SlotType": "Event1", "Name": "ドレディア" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ピクシー" },
+            { "SlotType": "Event2", "Name": "プクリン" },
+            { "SlotType": "Event2", "Name": "キレイハナ" },
+            { "SlotType": "Event2", "Name": "ムシャーナ" },
+            { "SlotType": "Event2", "Name": "エルフーン" },
+            { "SlotType": "Event2", "Name": "ドレディア" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ピクシー" },
+            { "SlotType": "Event3", "Name": "プクリン" },
+            { "SlotType": "Event3", "Name": "キレイハナ" },
+            { "SlotType": "Event3", "Name": "ムシャーナ" },
+            { "SlotType": "Event3", "Name": "エルフーン" },
+            { "SlotType": "Event3", "Name": "ドレディア" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ピクシー" },
+            { "SlotType": "Event4", "Name": "プクリン" },
+            { "SlotType": "Event4", "Name": "キレイハナ" },
+            { "SlotType": "Event4", "Name": "ムシャーナ" },
+            { "SlotType": "Event4", "Name": "エルフーン" },
+            { "SlotType": "Event4", "Name": "ドレディア" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ピクシー" },
+            { "SlotType": "Event5", "Name": "プクリン" },
+            { "SlotType": "Event5", "Name": "キレイハナ" },
+            { "SlotType": "Event5", "Name": "ムシャーナ" },
+            { "SlotType": "Event5", "Name": "ピクシー", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "ドレディア" }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "ピクシー" },
+            { "SlotType": "Event1", "Name": "プクリン" },
+            { "SlotType": "Event1", "Name": "クサイハナ" },
+            { "SlotType": "Event1", "Name": "ムシャーナ" },
+            { "SlotType": "Event1", "Name": "エルフーン" },
+            { "SlotType": "Event1", "Name": "ドレディア" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ピクシー" },
+            { "SlotType": "Event2", "Name": "プクリン" },
+            { "SlotType": "Event2", "Name": "キレイハナ" },
+            { "SlotType": "Event2", "Name": "ムシャーナ" },
+            { "SlotType": "Event2", "Name": "エルフーン" },
+            { "SlotType": "Event2", "Name": "ドレディア" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ピクシー" },
+            { "SlotType": "Event3", "Name": "プクリン" },
+            { "SlotType": "Event3", "Name": "キレイハナ" },
+            { "SlotType": "Event3", "Name": "ムシャーナ" },
+            { "SlotType": "Event3", "Name": "エルフーン" },
+            { "SlotType": "Event3", "Name": "ドレディア" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ピクシー" },
+            { "SlotType": "Event4", "Name": "プクリン" },
+            { "SlotType": "Event4", "Name": "キレイハナ" },
+            { "SlotType": "Event4", "Name": "ムシャーナ" },
+            { "SlotType": "Event4", "Name": "エルフーン" },
+            { "SlotType": "Event4", "Name": "ドレディア" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ピクシー" },
+            { "SlotType": "Event5", "Name": "プクリン" },
+            { "SlotType": "Event5", "Name": "キレイハナ" },
+            { "SlotType": "Event5", "Name": "ムシャーナ" },
+            { "SlotType": "Event5", "Name": "ピクシー", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "ドレディア" }
+        ]
+    ]
+}
