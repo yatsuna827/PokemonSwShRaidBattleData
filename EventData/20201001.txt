@@ -1,0 +1,87 @@
+{
+    "Label": "2020 October",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "ゴースト" },
+            { "SlotType": "Event1", "Name": "フワライド" },
+            { "SlotType": "Event1", "Name": "ヨマワル" },
+            { "SlotType": "Event1", "Name": "ベロバー" },
+            { "SlotType": "Event1", "Name": "モノズ" },
+            { "SlotType": "Event1", "Name": "モルペコ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ゲンガー", "Form": "キョダイ" },
+            { "SlotType": "Event2", "Name": "フワライド" },
+            { "SlotType": "Event2", "Name": "ヨマワル" },
+            { "SlotType": "Event2", "Name": "ベロバー" },
+            { "SlotType": "Event2", "Name": "モノズ" },
+            { "SlotType": "Event2", "Name": "モルペコ" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ゲンガー", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "フワライド" },
+            { "SlotType": "Event3", "Name": "ヨノワール" },
+            { "SlotType": "Event3", "Name": "ギモー" },
+            { "SlotType": "Event3", "Name": "モノズ" },
+            { "SlotType": "Event3", "Name": "モルペコ" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ゲンガー", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "フワライド" },
+            { "SlotType": "Event4", "Name": "ヨノワール" },
+            { "SlotType": "Event4", "Name": "オーロンゲ", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "ジヘッド" },
+            { "SlotType": "Event4", "Name": "モルペコ" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ゲンガー", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "フワライド" },
+            { "SlotType": "Event5", "Name": "ヨノワール" },
+            { "SlotType": "Event5", "Name": "オーロンゲ", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "サザンドラ" },
+            { "SlotType": "Event5", "Name": "モルペコ" }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "ゴースト" },
+            { "SlotType": "Event1", "Name": "フワライド" },
+            { "SlotType": "Event1", "Name": "ヨマワル" },
+            { "SlotType": "Event1", "Name": "ベロバー" },
+            { "SlotType": "Event1", "Name": "モノズ" },
+            { "SlotType": "Event1", "Name": "モルペコ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ゲンガー", "Form": "キョダイ" },
+            { "SlotType": "Event2", "Name": "フワライド" },
+            { "SlotType": "Event2", "Name": "ヨマワル" },
+            { "SlotType": "Event2", "Name": "ベロバー" },
+            { "SlotType": "Event2", "Name": "モノズ" },
+            { "SlotType": "Event2", "Name": "モルペコ" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ゲンガー", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "フワライド" },
+            { "SlotType": "Event3", "Name": "ヨノワール" },
+            { "SlotType": "Event3", "Name": "ギモー" },
+            { "SlotType": "Event3", "Name": "モノズ" },
+            { "SlotType": "Event3", "Name": "モルペコ" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ゲンガー", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "フワライド" },
+            { "SlotType": "Event4", "Name": "ヨノワール" },
+            { "SlotType": "Event4", "Name": "オーロンゲ", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "ジヘッド" },
+            { "SlotType": "Event4", "Name": "モルペコ" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ゲンガー", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "フワライド" },
+            { "SlotType": "Event5", "Name": "ヨノワール" },
+            { "SlotType": "Event5", "Name": "オーロンゲ", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "サザンドラ" },
+            { "SlotType": "Event5", "Name": "モルペコ" }
+        ]
+    ]
+}
