@@ -1,0 +1,87 @@
+{
+    "Label": "2020 Halloween",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "デスマス" },
+            { "SlotType": "Event1", "Name": "ミミッキュ" },
+            { "SlotType": "Event1", "Name": "オーロット" },
+            { "SlotType": "Event1", "Name": "ポットデス" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "バケッチャ" },
+            { "SlotType": "Event2", "Name": "デスカーン" },
+            { "SlotType": "Event2", "Name": "ミミッキュ" },
+            { "SlotType": "Event2", "Name": "オーロット" },
+            { "SlotType": "Event2", "Name": "ポットデス" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "バケッチャ" },
+            { "SlotType": "Event3", "Name": "デスカーン" },
+            { "SlotType": "Event3", "Name": "ミミッキュ" },
+            { "SlotType": "Event3", "Name": "オーロット" },
+            { "SlotType": "Event3", "Name": "ポットデス" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "パンプジン" },
+            { "SlotType": "Event4", "Name": "パンプジン", "Form": "小"},
+            { "SlotType": "Event4", "Name": "パンプジン", "Form": "大"},
+            { "SlotType": "Event4", "Name": "パンプジン", "Form": "特大"},
+            { "SlotType": "Event4", "Name": "デスカーン" },
+            { "SlotType": "Event4", "Name": "ミミッキュ" },
+            { "SlotType": "Event4", "Name": "オーロット" },
+            { "SlotType": "Event4", "Name": "ポットデス" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "パンプジン" },
+            { "SlotType": "Event5", "Name": "パンプジン", "Form": "小", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "パンプジン", "Form": "大" },
+            { "SlotType": "Event5", "Name": "パンプジン", "Form": "特大", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "デスカーン" },
+            { "SlotType": "Event5", "Name": "ミミッキュ" },
+            { "SlotType": "Event5", "Name": "オーロット" },
+            { "SlotType": "Event5", "Name": "ポットデス" }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "デスマス" },
+            { "SlotType": "Event1", "Name": "ミミッキュ" },
+            { "SlotType": "Event1", "Name": "オーロット" },
+            { "SlotType": "Event1", "Name": "ポットデス" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "バケッチャ" },
+            { "SlotType": "Event2", "Name": "デスカーン" },
+            { "SlotType": "Event2", "Name": "ミミッキュ" },
+            { "SlotType": "Event2", "Name": "オーロット" },
+            { "SlotType": "Event2", "Name": "ポットデス" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "バケッチャ" },
+            { "SlotType": "Event3", "Name": "デスカーン" },
+            { "SlotType": "Event3", "Name": "ミミッキュ" },
+            { "SlotType": "Event3", "Name": "オーロット" },
+            { "SlotType": "Event3", "Name": "ポットデス" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "パンプジン" },
+            { "SlotType": "Event4", "Name": "パンプジン", "Form": "小"},
+            { "SlotType": "Event4", "Name": "パンプジン", "Form": "大"},
+            { "SlotType": "Event4", "Name": "パンプジン", "Form": "特大"},
+            { "SlotType": "Event4", "Name": "デスカーン" },
+            { "SlotType": "Event4", "Name": "ミミッキュ" },
+            { "SlotType": "Event4", "Name": "オーロット" },
+            { "SlotType": "Event4", "Name": "ポットデス" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "パンプジン" },
+            { "SlotType": "Event5", "Name": "パンプジン", "Form": "小", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "パンプジン", "Form": "大" },
+            { "SlotType": "Event5", "Name": "パンプジン", "Form": "特大", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "デスカーン" },
+            { "SlotType": "Event5", "Name": "ミミッキュ" },
+            { "SlotType": "Event5", "Name": "オーロット" },
+            { "SlotType": "Event5", "Name": "ポットデス" }
+        ]
+    ]
+}
