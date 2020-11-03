@@ -1,0 +1,87 @@
+{
+    "Label": "2020 November",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "バタフリー", "Form": "キョダイ" },
+            { "SlotType": "Event1", "Name": "ツボツボ" },
+            { "SlotType": "Event1", "Name": "ツチニン" },
+            { "SlotType": "Event1", "Name": "ヤブクロン" },
+            { "SlotType": "Event1", "Name": "ナゾノクサ" },
+            { "SlotType": "Event1", "Name": "グレッグル" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "バタフリー", "Form": "キョダイ" },
+            { "SlotType": "Event2", "Name": "ツボツボ" },
+            { "SlotType": "Event2", "Name": "テッカニン" },
+            { "SlotType": "Event2", "Name": "ヤブクロン" },
+            { "SlotType": "Event2", "Name": "ラフレシア" },
+            { "SlotType": "Event2", "Name": "グレッグル" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "バタフリー", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "ツボツボ" },
+            { "SlotType": "Event3", "Name": "テッカニン" },
+            { "SlotType": "Event3", "Name": "ダストダス", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "ラフレシア" },
+            { "SlotType": "Event3", "Name": "ドクロッグ" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "バタフリー", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "ツボツボ" },
+            { "SlotType": "Event4", "Name": "テッカニン" },
+            { "SlotType": "Event4", "Name": "ダストダス", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "ラフレシア" },
+            { "SlotType": "Event4", "Name": "ドクロッグ" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "バタフリー", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "ツボツボ" },
+            { "SlotType": "Event5", "Name": "テッカニン" },
+            { "SlotType": "Event5", "Name": "ダストダス", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "ラフレシア" },
+            { "SlotType": "Event5", "Name": "ドクロッグ" }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "バタフリー", "Form": "キョダイ" },
+            { "SlotType": "Event1", "Name": "ツボツボ" },
+            { "SlotType": "Event1", "Name": "ツチニン" },
+            { "SlotType": "Event1", "Name": "ヤブクロン" },
+            { "SlotType": "Event1", "Name": "ナゾノクサ" },
+            { "SlotType": "Event1", "Name": "グレッグル" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "バタフリー", "Form": "キョダイ" },
+            { "SlotType": "Event2", "Name": "ツボツボ" },
+            { "SlotType": "Event2", "Name": "テッカニン" },
+            { "SlotType": "Event2", "Name": "ヤブクロン" },
+            { "SlotType": "Event2", "Name": "ラフレシア" },
+            { "SlotType": "Event2", "Name": "グレッグル" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "バタフリー", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "ツボツボ" },
+            { "SlotType": "Event3", "Name": "テッカニン" },
+            { "SlotType": "Event3", "Name": "ダストダス", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "ラフレシア" },
+            { "SlotType": "Event3", "Name": "ドクロッグ" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "バタフリー", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "ツボツボ" },
+            { "SlotType": "Event4", "Name": "テッカニン" },
+            { "SlotType": "Event4", "Name": "ダストダス", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "ラフレシア" },
+            { "SlotType": "Event4", "Name": "ドクロッグ" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "バタフリー", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "ツボツボ" },
+            { "SlotType": "Event5", "Name": "テッカニン" },
+            { "SlotType": "Event5", "Name": "ダストダス", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "ラフレシア" },
+            { "SlotType": "Event5", "Name": "ドクロッグ" }
+        ]
+    ]
+}
