@@ -1,0 +1,77 @@
+{
+    "Label": "Get Cheeky with Skwovet",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "チェリンボ" },
+            { "SlotType": "Event1", "Name": "タマゲタケ" },
+            { "SlotType": "Event1", "Name": "ネマシュ" },
+            { "SlotType": "Event1", "Name": "ホシガリス" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "チェリンボ" },
+            { "SlotType": "Event2", "Name": "タマゲタケ" },
+            { "SlotType": "Event2", "Name": "マシェード" },
+            { "SlotType": "Event2", "Name": "ホシガリス" },
+            { "SlotType": "Event2", "Name": "ヨクバリス" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "チェリンボ" },
+            { "SlotType": "Event3", "Name": "モロバレル" },
+            { "SlotType": "Event3", "Name": "マシェード" },
+            { "SlotType": "Event3", "Name": "ホシガリス" },
+            { "SlotType": "Event3", "Name": "ヨクバリス" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "チェリンボ" },
+            { "SlotType": "Event4", "Name": "モロバレル" },
+            { "SlotType": "Event4", "Name": "マシェード" },
+            { "SlotType": "Event4", "Name": "ホシガリス" },
+            { "SlotType": "Event4", "Name": "ヨクバリス" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "チェリンボ" },
+            { "SlotType": "Event5", "Name": "モロバレル" },
+            { "SlotType": "Event5", "Name": "マシェード" },
+            { "SlotType": "Event5", "Name": "ホシガリス" },
+            { "SlotType": "Event5", "Name": "ホシガリス", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "ヨクバリス" }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "チェリンボ" },
+            { "SlotType": "Event1", "Name": "タマゲタケ" },
+            { "SlotType": "Event1", "Name": "ネマシュ" },
+            { "SlotType": "Event1", "Name": "ホシガリス" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "チェリンボ" },
+            { "SlotType": "Event2", "Name": "タマゲタケ" },
+            { "SlotType": "Event2", "Name": "マシェード" },
+            { "SlotType": "Event2", "Name": "ホシガリス" },
+            { "SlotType": "Event2", "Name": "ヨクバリス" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "チェリンボ" },
+            { "SlotType": "Event3", "Name": "モロバレル" },
+            { "SlotType": "Event3", "Name": "マシェード" },
+            { "SlotType": "Event3", "Name": "ホシガリス" },
+            { "SlotType": "Event3", "Name": "ヨクバリス" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "チェリンボ" },
+            { "SlotType": "Event4", "Name": "モロバレル" },
+            { "SlotType": "Event4", "Name": "マシェード" },
+            { "SlotType": "Event4", "Name": "ホシガリス" },
+            { "SlotType": "Event4", "Name": "ヨクバリス" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "チェリンボ" },
+            { "SlotType": "Event5", "Name": "モロバレル" },
+            { "SlotType": "Event5", "Name": "マシェード" },
+            { "SlotType": "Event5", "Name": "ホシガリス" },
+            { "SlotType": "Event5", "Name": "ホシガリス", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "ヨクバリス" }
+        ]
+    ]
+}
