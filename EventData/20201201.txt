@@ -1,0 +1,87 @@
+{
+    "Label": "2020 December",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "ラプラス", "Form": "キョダイ" },
+            { "SlotType": "Event1", "Name": "カチコール" },
+            { "SlotType": "Event1", "Name": "マニューラ" },
+            { "SlotType": "Event1", "Name": "ヤクデ" },
+            { "SlotType": "Event1", "Name": "バクガメス" },
+            { "SlotType": "Event1", "Name": "ポニータ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ラプラス", "Form": "キョダイ" },
+            { "SlotType": "Event2", "Name": "カチコール" },
+            { "SlotType": "Event2", "Name": "マニューラ" },
+            { "SlotType": "Event2", "Name": "マルヤクデ", "Form": "キョダイ"  },
+            { "SlotType": "Event2", "Name": "バクガメス" },
+            { "SlotType": "Event2", "Name": "ポニータ" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ラプラス", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "クレベース" },
+            { "SlotType": "Event3", "Name": "マニューラ" },
+            { "SlotType": "Event3", "Name": "マルヤクデ", "Form": "キョダイ"  },
+            { "SlotType": "Event3", "Name": "バクガメス" },
+            { "SlotType": "Event3", "Name": "ギャロップ" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ラプラス", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "クレベース" },
+            { "SlotType": "Event4", "Name": "マニューラ" },
+            { "SlotType": "Event4", "Name": "マルヤクデ", "Form": "キョダイ"  },
+            { "SlotType": "Event4", "Name": "バクガメス" },
+            { "SlotType": "Event4", "Name": "ギャロップ" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ラプラス", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "クレベース" },
+            { "SlotType": "Event5", "Name": "マニューラ" },
+            { "SlotType": "Event5", "Name": "マルヤクデ", "Form": "キョダイ"  },
+            { "SlotType": "Event5", "Name": "バクガメス" },
+            { "SlotType": "Event5", "Name": "ギャロップ" }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "ラプラス", "Form": "キョダイ" },
+            { "SlotType": "Event1", "Name": "カチコール" },
+            { "SlotType": "Event1", "Name": "マニューラ" },
+            { "SlotType": "Event1", "Name": "ヤクデ" },
+            { "SlotType": "Event1", "Name": "バクガメス" },
+            { "SlotType": "Event1", "Name": "ポニータ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ラプラス", "Form": "キョダイ" },
+            { "SlotType": "Event2", "Name": "カチコール" },
+            { "SlotType": "Event2", "Name": "マニューラ" },
+            { "SlotType": "Event2", "Name": "マルヤクデ", "Form": "キョダイ"  },
+            { "SlotType": "Event2", "Name": "バクガメス" },
+            { "SlotType": "Event2", "Name": "ポニータ" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ラプラス", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "クレベース" },
+            { "SlotType": "Event3", "Name": "マニューラ" },
+            { "SlotType": "Event3", "Name": "マルヤクデ", "Form": "キョダイ"  },
+            { "SlotType": "Event3", "Name": "バクガメス" },
+            { "SlotType": "Event3", "Name": "ギャロップ" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ラプラス", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "クレベース" },
+            { "SlotType": "Event4", "Name": "マニューラ" },
+            { "SlotType": "Event4", "Name": "マルヤクデ", "Form": "キョダイ"  },
+            { "SlotType": "Event4", "Name": "バクガメス" },
+            { "SlotType": "Event4", "Name": "ギャロップ" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ラプラス", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "クレベース" },
+            { "SlotType": "Event5", "Name": "マニューラ" },
+            { "SlotType": "Event5", "Name": "マルヤクデ", "Form": "キョダイ"  },
+            { "SlotType": "Event5", "Name": "バクガメス" },
+            { "SlotType": "Event5", "Name": "ギャロップ" }
+        ]
+    ]
+}
