@@ -1,0 +1,79 @@
+{
+    "Label": "2020 Christmas",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "ロコン", "Form": "アローラ" },
+            { "SlotType": "Event1", "Name": "ルージュラ" },
+            { "SlotType": "Event1", "Name": "デリバード" },
+            { "SlotType": "Event1", "Name": "ヒトモシ" },
+            { "SlotType": "Event1", "Name": "モスノウ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ロコン", "Form": "アローラ" },
+            { "SlotType": "Event2", "Name": "ルージュラ" },
+            { "SlotType": "Event2", "Name": "デリバード" },
+            { "SlotType": "Event2", "Name": "ランプラー" },
+            { "SlotType": "Event2", "Name": "モスノウ" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ロコン", "Form": "アローラ" },
+            { "SlotType": "Event3", "Name": "ルージュラ" },
+            { "SlotType": "Event3", "Name": "デリバード" },
+            { "SlotType": "Event3", "Name": "シャンデラ" },
+            { "SlotType": "Event3", "Name": "モスノウ" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ロコン", "Form": "アローラ" },
+            { "SlotType": "Event4", "Name": "ルージュラ" },
+            { "SlotType": "Event4", "Name": "デリバード" },
+            { "SlotType": "Event4", "Name": "シャンデラ" },
+            { "SlotType": "Event4", "Name": "モスノウ" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ロコン", "Form": "アローラ" },
+            { "SlotType": "Event5", "Name": "ロコン", "Form": "アローラ", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "ルージュラ" },
+            { "SlotType": "Event5", "Name": "デリバード" },
+            { "SlotType": "Event5", "Name": "シャンデラ" },
+            { "SlotType": "Event5", "Name": "モスノウ" }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "ロコン", "Form": "アローラ" },
+            { "SlotType": "Event1", "Name": "ルージュラ" },
+            { "SlotType": "Event1", "Name": "デリバード" },
+            { "SlotType": "Event1", "Name": "ヒトモシ" },
+            { "SlotType": "Event1", "Name": "モスノウ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ロコン", "Form": "アローラ" },
+            { "SlotType": "Event2", "Name": "ルージュラ" },
+            { "SlotType": "Event2", "Name": "デリバード" },
+            { "SlotType": "Event2", "Name": "ランプラー" },
+            { "SlotType": "Event2", "Name": "モスノウ" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ロコン", "Form": "アローラ" },
+            { "SlotType": "Event3", "Name": "ルージュラ" },
+            { "SlotType": "Event3", "Name": "デリバード" },
+            { "SlotType": "Event3", "Name": "シャンデラ" },
+            { "SlotType": "Event3", "Name": "モスノウ" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ロコン", "Form": "アローラ" },
+            { "SlotType": "Event4", "Name": "ルージュラ" },
+            { "SlotType": "Event4", "Name": "デリバード" },
+            { "SlotType": "Event4", "Name": "シャンデラ" },
+            { "SlotType": "Event4", "Name": "モスノウ" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ロコン", "Form": "アローラ" },
+            { "SlotType": "Event5", "Name": "ロコン", "Form": "アローラ", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "ルージュラ" },
+            { "SlotType": "Event5", "Name": "デリバード" },
+            { "SlotType": "Event5", "Name": "シャンデラ" },
+            { "SlotType": "Event5", "Name": "モスノウ" }
+        ]
+    ]
+}
