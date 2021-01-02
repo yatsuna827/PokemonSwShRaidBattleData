@@ -1,0 +1,87 @@
+{
+    "Label": "2021 January",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "ジュラルドン", "Form": "キョダイ" },
+            { "SlotType": "Event1", "Name": "キバゴ" },
+            { "SlotType": "Event1", "Name": "ヌメラ" },
+            { "SlotType": "Event1", "Name": "ゴンベ" },
+            { "SlotType": "Event1", "Name": "ヌイコグマ" },
+            { "SlotType": "Event1", "Name": "チラーミィ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ジュラルドン", "Form": "キョダイ" },
+            { "SlotType": "Event2", "Name": "キバゴ" },
+            { "SlotType": "Event2", "Name": "ヌメラ" },
+            { "SlotType": "Event2", "Name": "カビゴン", "Form": "キョダイ" },
+            { "SlotType": "Event2", "Name": "ヌイコグマ" },
+            { "SlotType": "Event2", "Name": "チラーミィ" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ジュラルドン", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "オノンド" },
+            { "SlotType": "Event3", "Name": "ヌメイル" },
+            { "SlotType": "Event3", "Name": "カビゴン", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "キテルグマ" },
+            { "SlotType": "Event3", "Name": "チラチーノ" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ジュラルドン", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "オノノクス" },
+            { "SlotType": "Event4", "Name": "ヌメルゴン" },
+            { "SlotType": "Event4", "Name": "カビゴン", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "キテルグマ" },
+            { "SlotType": "Event4", "Name": "チラチーノ" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ジュラルドン", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "オノノクス" },
+            { "SlotType": "Event5", "Name": "ヌメルゴン" },
+            { "SlotType": "Event5", "Name": "カビゴン", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "キテルグマ" },
+            { "SlotType": "Event5", "Name": "チラチーノ" }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "ジュラルドン", "Form": "キョダイ" },
+            { "SlotType": "Event1", "Name": "キバゴ" },
+            { "SlotType": "Event1", "Name": "ヌメラ" },
+            { "SlotType": "Event1", "Name": "ゴンベ" },
+            { "SlotType": "Event1", "Name": "ヌイコグマ" },
+            { "SlotType": "Event1", "Name": "チラーミィ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ジュラルドン", "Form": "キョダイ" },
+            { "SlotType": "Event2", "Name": "キバゴ" },
+            { "SlotType": "Event2", "Name": "ヌメラ" },
+            { "SlotType": "Event2", "Name": "カビゴン", "Form": "キョダイ" },
+            { "SlotType": "Event2", "Name": "ヌイコグマ" },
+            { "SlotType": "Event2", "Name": "チラーミィ" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ジュラルドン", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "オノンド" },
+            { "SlotType": "Event3", "Name": "ヌメイル" },
+            { "SlotType": "Event3", "Name": "カビゴン", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "キテルグマ" },
+            { "SlotType": "Event3", "Name": "チラチーノ" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ジュラルドン", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "オノノクス" },
+            { "SlotType": "Event4", "Name": "ヌメルゴン" },
+            { "SlotType": "Event4", "Name": "カビゴン", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "キテルグマ" },
+            { "SlotType": "Event4", "Name": "チラチーノ" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ジュラルドン", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "オノノクス" },
+            { "SlotType": "Event5", "Name": "ヌメルゴン" },
+            { "SlotType": "Event5", "Name": "カビゴン", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "キテルグマ" },
+            { "SlotType": "Event5", "Name": "チラチーノ" }
+        ]
+    ]
+}
