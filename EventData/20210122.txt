@@ -1,0 +1,59 @@
+{
+    "Label": "Year of the Ox",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "ケンタロス" },
+            { "SlotType": "Event1", "Name": "バッフロン" },
+            { "SlotType": "Event1", "Name": "ミルタンク" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ケンタロス" },
+            { "SlotType": "Event2", "Name": "バッフロン" },
+            { "SlotType": "Event2", "Name": "ミルタンク" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ケンタロス" },
+            { "SlotType": "Event3", "Name": "バッフロン" },
+            { "SlotType": "Event3", "Name": "ミルタンク" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ケンタロス" },
+            { "SlotType": "Event4", "Name": "バッフロン" },
+            { "SlotType": "Event4", "Name": "ミルタンク" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ケンタロス" },
+            { "SlotType": "Event5", "Name": "ケンタロス", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "バッフロン" },
+            { "SlotType": "Event5", "Name": "ミルタンク" }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "ケンタロス" },
+            { "SlotType": "Event1", "Name": "バッフロン" },
+            { "SlotType": "Event1", "Name": "ミルタンク" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ケンタロス" },
+            { "SlotType": "Event2", "Name": "バッフロン" },
+            { "SlotType": "Event2", "Name": "ミルタンク" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ケンタロス" },
+            { "SlotType": "Event3", "Name": "バッフロン" },
+            { "SlotType": "Event3", "Name": "ミルタンク" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ケンタロス" },
+            { "SlotType": "Event4", "Name": "バッフロン" },
+            { "SlotType": "Event4", "Name": "ミルタンク" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ケンタロス" },
+            { "SlotType": "Event5", "Name": "ケンタロス", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "バッフロン" },
+            { "SlotType": "Event5", "Name": "ミルタンク" }
+        ]
+    ]
+}
