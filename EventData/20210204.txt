@@ -1,0 +1,79 @@
+{
+    "Label": "Secrets of the Jungle Tie-In",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "ウッウ" },
+            { "SlotType": "Event1", "Name": "フライゴン" },
+            { "SlotType": "Event1", "Name": "ゴルーグ" },
+            { "SlotType": "Event1", "Name": "ヌオー" },
+            { "SlotType": "Event1", "Name": "イエッサン", "Form": "♀" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ウッウ" },
+            { "SlotType": "Event2", "Name": "フライゴン" },
+            { "SlotType": "Event2", "Name": "ゴルーグ" },
+            { "SlotType": "Event2", "Name": "ヌオー" },
+            { "SlotType": "Event2", "Name": "イエッサン", "Form": "♀" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ウッウ" },
+            { "SlotType": "Event3", "Name": "フライゴン" },
+            { "SlotType": "Event3", "Name": "ゴルーグ" },
+            { "SlotType": "Event3", "Name": "ヌオー" },
+            { "SlotType": "Event3", "Name": "イエッサン", "Form": "♀" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ウッウ" },
+            { "SlotType": "Event4", "Name": "フライゴン" },
+            { "SlotType": "Event4", "Name": "ゴルーグ" },
+            { "SlotType": "Event4", "Name": "ヌオー" },
+            { "SlotType": "Event4", "Name": "イエッサン", "Form": "♀" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ウッウ" },
+            { "SlotType": "Event5", "Name": "ウッウ", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "フライゴン" },
+            { "SlotType": "Event5", "Name": "ゴルーグ" },
+            { "SlotType": "Event5", "Name": "ヌオー" },
+            { "SlotType": "Event5", "Name": "イエッサン", "Form": "♀" }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "ウッウ" },
+            { "SlotType": "Event1", "Name": "フライゴン" },
+            { "SlotType": "Event1", "Name": "ゴルーグ" },
+            { "SlotType": "Event1", "Name": "ヌオー" },
+            { "SlotType": "Event1", "Name": "イエッサン", "Form": "♀" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ウッウ" },
+            { "SlotType": "Event2", "Name": "フライゴン" },
+            { "SlotType": "Event2", "Name": "ゴルーグ" },
+            { "SlotType": "Event2", "Name": "ヌオー" },
+            { "SlotType": "Event2", "Name": "イエッサン", "Form": "♀" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ウッウ" },
+            { "SlotType": "Event3", "Name": "フライゴン" },
+            { "SlotType": "Event3", "Name": "ゴルーグ" },
+            { "SlotType": "Event3", "Name": "ヌオー" },
+            { "SlotType": "Event3", "Name": "イエッサン", "Form": "♀" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ウッウ" },
+            { "SlotType": "Event4", "Name": "フライゴン" },
+            { "SlotType": "Event4", "Name": "ゴルーグ" },
+            { "SlotType": "Event4", "Name": "ヌオー" },
+            { "SlotType": "Event4", "Name": "イエッサン", "Form": "♀" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ウッウ" },
+            { "SlotType": "Event5", "Name": "ウッウ", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "フライゴン" },
+            { "SlotType": "Event5", "Name": "ゴルーグ" },
+            { "SlotType": "Event5", "Name": "ヌオー" },
+            { "SlotType": "Event5", "Name": "イエッサン", "Form": "♀" }
+        ]
+    ]
+}
