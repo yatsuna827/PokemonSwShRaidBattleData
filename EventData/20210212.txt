@@ -1,0 +1,39 @@
+{
+    "Label": "Valentine's Day 2021",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "マホミル" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "マホミル" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "マホミル" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "マホミル" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "マホミル" },
+            { "SlotType": "Event5", "Name": "マホミル", "ForceShiny": true }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "マホミル" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "マホミル" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "マホミル" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "マホミル" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "マホミル" },
+            { "SlotType": "Event5", "Name": "マホミル", "ForceShiny": true }
+        ]
+    ]
+}
