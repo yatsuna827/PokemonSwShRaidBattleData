@@ -1,0 +1,79 @@
+{
+    "Label": "2021 February",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "ゴーリキー" },
+            { "SlotType": "Event1", "Name": "リオル" },
+            { "SlotType": "Event1", "Name": "タイレーツ" },
+            { "SlotType": "Event1", "Name": "レドームシ" },
+            { "SlotType": "Event1", "Name": "ユニラン" },
+            { "SlotType": "Event1", "Name": "ゴチム" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "カイリキー", "Form": "キョダイ" },
+            { "SlotType": "Event2", "Name": "リオル" },
+            { "SlotType": "Event2", "Name": "タイレーツ" },
+            { "SlotType": "Event2", "Name": "イオルブ", "Form": "キョダイ" },
+            { "SlotType": "Event2", "Name": "ユニラン" },
+            { "SlotType": "Event2", "Name": "ゴチム" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "カイリキー", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "ルカリオ" },
+            { "SlotType": "Event3", "Name": "タイレーツ" },
+            { "SlotType": "Event3", "Name": "イオルブ", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "ダブラン" },
+            { "SlotType": "Event3", "Name": "ゴチミル" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "カイリキー", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "ルカリオ" },
+            { "SlotType": "Event4", "Name": "タイレーツ" },
+            { "SlotType": "Event4", "Name": "イオルブ", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "ランクルス" },
+            { "SlotType": "Event4", "Name": "ゴチルゼル" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ピカチュウ", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "ピカチュウ", "Form": "キョダイ", "ForceShiny": true }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "ゴーリキー" },
+            { "SlotType": "Event1", "Name": "リオル" },
+            { "SlotType": "Event1", "Name": "タイレーツ" },
+            { "SlotType": "Event1", "Name": "レドームシ" },
+            { "SlotType": "Event1", "Name": "ユニラン" },
+            { "SlotType": "Event1", "Name": "ゴチム" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "カイリキー", "Form": "キョダイ" },
+            { "SlotType": "Event2", "Name": "リオル" },
+            { "SlotType": "Event2", "Name": "タイレーツ" },
+            { "SlotType": "Event2", "Name": "イオルブ", "Form": "キョダイ" },
+            { "SlotType": "Event2", "Name": "ユニラン" },
+            { "SlotType": "Event2", "Name": "ゴチム" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "カイリキー", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "ルカリオ" },
+            { "SlotType": "Event3", "Name": "タイレーツ" },
+            { "SlotType": "Event3", "Name": "イオルブ", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "ダブラン" },
+            { "SlotType": "Event3", "Name": "ゴチミル" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "カイリキー", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "ルカリオ" },
+            { "SlotType": "Event4", "Name": "タイレーツ" },
+            { "SlotType": "Event4", "Name": "イオルブ", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "ランクルス" },
+            { "SlotType": "Event4", "Name": "ゴチルゼル" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ピカチュウ", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "ピカチュウ", "Form": "キョダイ", "ForceShiny": true }
+        ]
+    ]
+}
