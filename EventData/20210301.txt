@@ -1,0 +1,87 @@
+{
+    "Label": "2021 February",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "ミブリム" },
+            { "SlotType": "Event1", "Name": "ラルトス" },
+            { "SlotType": "Event1", "Name": "ドガース" },
+            { "SlotType": "Event1", "Name": "ココガラ" },
+            { "SlotType": "Event1", "Name": "ワシボン" },
+            { "SlotType": "Event1", "Name": "ウッウ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ミブリム" },
+            { "SlotType": "Event2", "Name": "キルリア" },
+            { "SlotType": "Event2", "Name": "ドガース" },
+            { "SlotType": "Event2", "Name": "アオガラス" },
+            { "SlotType": "Event2", "Name": "ワシボン" },
+            { "SlotType": "Event2", "Name": "ウッウ" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "テブリム" },
+            { "SlotType": "Event3", "Name": "サーナイト" },
+            { "SlotType": "Event3", "Name": "マタドガス", "Form": "ガラル"},
+            { "SlotType": "Event3", "Name": "アーマーガア", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "ウォーグル" },
+            { "SlotType": "Event3", "Name": "ウッウ" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ブリムオン", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "サーナイト" },
+            { "SlotType": "Event4", "Name": "マタドガス", "Form": "ガラル" },
+            { "SlotType": "Event4", "Name": "アーマーガア", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "ウォーグル" },
+            { "SlotType": "Event4", "Name": "ウッウ" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ブリムオン", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "サーナイト" },
+            { "SlotType": "Event5", "Name": "マタドガス", "Form": "ガラル"},
+            { "SlotType": "Event5", "Name": "アーマーガア", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "ウォーグル" },
+            { "SlotType": "Event5", "Name": "ウッウ" }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "ミブリム" },
+            { "SlotType": "Event1", "Name": "ラルトス" },
+            { "SlotType": "Event1", "Name": "ドガース" },
+            { "SlotType": "Event1", "Name": "ココガラ" },
+            { "SlotType": "Event1", "Name": "ワシボン" },
+            { "SlotType": "Event1", "Name": "ウッウ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ミブリム" },
+            { "SlotType": "Event2", "Name": "キルリア" },
+            { "SlotType": "Event2", "Name": "ドガース" },
+            { "SlotType": "Event2", "Name": "アオガラス" },
+            { "SlotType": "Event2", "Name": "ワシボン" },
+            { "SlotType": "Event2", "Name": "ウッウ" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "テブリム" },
+            { "SlotType": "Event3", "Name": "サーナイト" },
+            { "SlotType": "Event3", "Name": "マタドガス", "Form": "ガラル"},
+            { "SlotType": "Event3", "Name": "アーマーガア", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "ウォーグル" },
+            { "SlotType": "Event3", "Name": "ウッウ" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ブリムオン", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "サーナイト" },
+            { "SlotType": "Event4", "Name": "マタドガス", "Form": "ガラル" },
+            { "SlotType": "Event4", "Name": "アーマーガア", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "ウォーグル" },
+            { "SlotType": "Event4", "Name": "ウッウ" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ブリムオン", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "サーナイト" },
+            { "SlotType": "Event5", "Name": "マタドガス", "Form": "ガラル"},
+            { "SlotType": "Event5", "Name": "アーマーガア", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "ウォーグル" },
+            { "SlotType": "Event5", "Name": "ウッウ" }
+        ]
+    ]
+}
