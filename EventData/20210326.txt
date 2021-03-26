@@ -1,0 +1,87 @@
+{
+    "Label": "2021 FlowerEvent",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "ナゾノクサ" },
+            { "SlotType": "Event1", "Name": "ナゾノクサ" },
+            { "SlotType": "Event1", "Name": "チェリンボ" },
+            { "SlotType": "Event1", "Name": "ドレディア" },
+            { "SlotType": "Event1", "Name": "カリキリ" },
+            { "SlotType": "Event1", "Name": "キュワワー" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ラフレシア" },
+            { "SlotType": "Event2", "Name": "キレイハナ" },
+            { "SlotType": "Event2", "Name": "チェリム" },
+            { "SlotType": "Event2", "Name": "ドレディア" },
+            { "SlotType": "Event2", "Name": "カリキリ" },
+            { "SlotType": "Event2", "Name": "キュワワー" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ラフレシア" },
+            { "SlotType": "Event3", "Name": "キレイハナ" },
+            { "SlotType": "Event3", "Name": "チェリム"},
+            { "SlotType": "Event3", "Name": "ドレディア" },
+            { "SlotType": "Event3", "Name": "ラランテス" },
+            { "SlotType": "Event3", "Name": "キュワワー" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ラフレシア" },
+            { "SlotType": "Event4", "Name": "キレイハナ" },
+            { "SlotType": "Event4", "Name": "チェリム"},
+            { "SlotType": "Event4", "Name": "ドレディア" },
+            { "SlotType": "Event4", "Name": "ラランテス" },
+            { "SlotType": "Event4", "Name": "キュワワー" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ラフレシア" },
+            { "SlotType": "Event5", "Name": "ドレディア", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "チェリム"},
+            { "SlotType": "Event5", "Name": "ドレディア" },
+            { "SlotType": "Event5", "Name": "ラランテス" },
+            { "SlotType": "Event5", "Name": "キュワワー" }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "ナゾノクサ" },
+            { "SlotType": "Event1", "Name": "ナゾノクサ" },
+            { "SlotType": "Event1", "Name": "チェリンボ" },
+            { "SlotType": "Event1", "Name": "ドレディア" },
+            { "SlotType": "Event1", "Name": "カリキリ" },
+            { "SlotType": "Event1", "Name": "キュワワー" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ラフレシア" },
+            { "SlotType": "Event2", "Name": "キレイハナ" },
+            { "SlotType": "Event2", "Name": "チェリム" },
+            { "SlotType": "Event2", "Name": "ドレディア" },
+            { "SlotType": "Event2", "Name": "カリキリ" },
+            { "SlotType": "Event2", "Name": "キュワワー" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ラフレシア" },
+            { "SlotType": "Event3", "Name": "キレイハナ" },
+            { "SlotType": "Event3", "Name": "チェリム"},
+            { "SlotType": "Event3", "Name": "ドレディア" },
+            { "SlotType": "Event3", "Name": "ラランテス" },
+            { "SlotType": "Event3", "Name": "キュワワー" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ラフレシア" },
+            { "SlotType": "Event4", "Name": "キレイハナ" },
+            { "SlotType": "Event4", "Name": "チェリム"},
+            { "SlotType": "Event4", "Name": "ドレディア" },
+            { "SlotType": "Event4", "Name": "ラランテス" },
+            { "SlotType": "Event4", "Name": "キュワワー" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ラフレシア" },
+            { "SlotType": "Event5", "Name": "ドレディア", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "チェリム"},
+            { "SlotType": "Event5", "Name": "ドレディア" },
+            { "SlotType": "Event5", "Name": "ラランテス" },
+            { "SlotType": "Event5", "Name": "キュワワー" }
+        ]
+    ]
+}
