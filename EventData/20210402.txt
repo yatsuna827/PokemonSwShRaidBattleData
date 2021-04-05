@@ -1,0 +1,61 @@
+{
+    "Label": "2021 Easter",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "マリル" },
+            { "SlotType": "Event1", "Name": "ミミロル" },
+            { "SlotType": "Event1", "Name": "ホルビー" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "マリルリ" },
+            { "SlotType": "Event2", "Name": "ミミロップ" },
+            { "SlotType": "Event2", "Name": "ホルード" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "マリルリ" },
+            { "SlotType": "Event3", "Name": "ミミロップ" },
+            { "SlotType": "Event3", "Name": "ホルード" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "マリルリ" },
+            { "SlotType": "Event4", "Name": "ミミロップ" },
+            { "SlotType": "Event4", "Name": "ホルード" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "マリルリ" },
+            { "SlotType": "Event5", "Name": "マリルリ", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "ミミロップ" },
+            { "SlotType": "Event5", "Name": "ホルード" },
+            { "SlotType": "Event5", "Name": "エースバーン", "Form": "キョダイ", "isUncatchable": true }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "マリル" },
+            { "SlotType": "Event1", "Name": "ミミロル" },
+            { "SlotType": "Event1", "Name": "ホルビー" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "マリルリ" },
+            { "SlotType": "Event2", "Name": "ミミロップ" },
+            { "SlotType": "Event2", "Name": "ホルード" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "マリルリ" },
+            { "SlotType": "Event3", "Name": "ミミロップ" },
+            { "SlotType": "Event3", "Name": "ホルード" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "マリルリ" },
+            { "SlotType": "Event4", "Name": "ミミロップ" },
+            { "SlotType": "Event4", "Name": "ホルード" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "マリルリ" },
+            { "SlotType": "Event5", "Name": "マリルリ", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "ミミロップ" },
+            { "SlotType": "Event5", "Name": "ホルード" },
+            { "SlotType": "Event5", "Name": "エースバーン", "Form": "キョダイ", "isUncatchable": true }
+        ]
+    ]
+}

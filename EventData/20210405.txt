@@ -1,0 +1,87 @@
+{
+    "Label": "2021 April",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "メタモン" },
+            { "SlotType": "Event1", "Name": "ココガラ" },
+            { "SlotType": "Event1", "Name": "カムカメ" },
+            { "SlotType": "Event1", "Name": "サッチムシ" },
+            { "SlotType": "Event1", "Name": "ヤクデ" },
+            { "SlotType": "Event1", "Name": "ウールー" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "メタモン" },
+            { "SlotType": "Event2", "Name": "アオガラス" },
+            { "SlotType": "Event2", "Name": "カムカメ" },
+            { "SlotType": "Event2", "Name": "レドームシ" },
+            { "SlotType": "Event2", "Name": "ヤクデ" },
+            { "SlotType": "Event2", "Name": "ウールー" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "メタモン" },
+            { "SlotType": "Event3", "Name": "アーマーガア" },
+            { "SlotType": "Event3", "Name": "カジリガメ"},
+            { "SlotType": "Event3", "Name": "イオルブ" },
+            { "SlotType": "Event3", "Name": "マルヤクデ" },
+            { "SlotType": "Event3", "Name": "バイウールー" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "メタモン" },
+            { "SlotType": "Event4", "Name": "アーマーガア" },
+            { "SlotType": "Event4", "Name": "カジリガメ"},
+            { "SlotType": "Event4", "Name": "イオルブ" },
+            { "SlotType": "Event4", "Name": "マルヤクデ" },
+            { "SlotType": "Event4", "Name": "バイウールー" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "メタモン" },
+            { "SlotType": "Event5", "Name": "アーマーガア" },
+            { "SlotType": "Event5", "Name": "カジリガメ"},
+            { "SlotType": "Event5", "Name": "イオルブ" },
+            { "SlotType": "Event5", "Name": "マルヤクデ" },
+            { "SlotType": "Event5", "Name": "バイウールー" }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "メタモン" },
+            { "SlotType": "Event1", "Name": "ココガラ" },
+            { "SlotType": "Event1", "Name": "カムカメ" },
+            { "SlotType": "Event1", "Name": "サッチムシ" },
+            { "SlotType": "Event1", "Name": "ヤクデ" },
+            { "SlotType": "Event1", "Name": "ウールー" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "メタモン" },
+            { "SlotType": "Event2", "Name": "アオガラス" },
+            { "SlotType": "Event2", "Name": "カムカメ" },
+            { "SlotType": "Event2", "Name": "レドームシ" },
+            { "SlotType": "Event2", "Name": "ヤクデ" },
+            { "SlotType": "Event2", "Name": "ウールー" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "メタモン" },
+            { "SlotType": "Event3", "Name": "アーマーガア" },
+            { "SlotType": "Event3", "Name": "カジリガメ"},
+            { "SlotType": "Event3", "Name": "イオルブ" },
+            { "SlotType": "Event3", "Name": "マルヤクデ" },
+            { "SlotType": "Event3", "Name": "バイウールー" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "メタモン" },
+            { "SlotType": "Event4", "Name": "アーマーガア" },
+            { "SlotType": "Event4", "Name": "カジリガメ"},
+            { "SlotType": "Event4", "Name": "イオルブ" },
+            { "SlotType": "Event4", "Name": "マルヤクデ" },
+            { "SlotType": "Event4", "Name": "バイウールー" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "メタモン" },
+            { "SlotType": "Event5", "Name": "アーマーガア" },
+            { "SlotType": "Event5", "Name": "カジリガメ"},
+            { "SlotType": "Event5", "Name": "イオルブ" },
+            { "SlotType": "Event5", "Name": "マルヤクデ" },
+            { "SlotType": "Event5", "Name": "バイウールー" }
+        ]
+    ]
+}
