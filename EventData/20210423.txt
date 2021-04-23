@@ -1,0 +1,39 @@
+{
+  "Label": "Gigantamax Meowth",
+  "SwTable": [
+    [
+        { "SlotType": "Event1", "Name": "コオリッポ" }
+    ],
+    [
+        { "SlotType": "Event2", "Name": "コオリッポ" }
+    ],
+    [
+        { "SlotType": "Event3", "Name": "コオリッポ" }
+    ],
+    [
+        { "SlotType": "Event4", "Name": "コオリッポ" }
+    ],
+    [
+        { "SlotType": "Event5", "Name": "コオリッポ" },
+        { "SlotType": "Event5", "Name": "コオリッポ", "ForceShiny": true }
+    ]
+  ],
+  "ShTable": [
+    [
+        { "SlotType": "Event1", "Name": "コオリッポ" }
+    ],
+    [
+        { "SlotType": "Event2", "Name": "コオリッポ" }
+    ],
+    [
+        { "SlotType": "Event3", "Name": "コオリッポ" }
+    ],
+    [
+        { "SlotType": "Event4", "Name": "コオリッポ" }
+    ],
+    [
+        { "SlotType": "Event5", "Name": "コオリッポ" },
+        { "SlotType": "Event5", "Name": "コオリッポ", "ForceShiny": true }
+    ]
+  ]
+}
