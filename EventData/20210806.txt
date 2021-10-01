@@ -1,0 +1,87 @@
+{
+    "Label": "Summer Event",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "バニプッチ" },
+            { "SlotType": "Event1", "Name": "トサキント" },
+            { "SlotType": "Event1", "Name": "カイロス" },
+            { "SlotType": "Event1", "Name": "ヘラクロス" },
+            { "SlotType": "Event1", "Name": "ツチニン" },
+            { "SlotType": "Event1", "Name": "ロトム", "Form": "スピン" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "バニプッチ" },
+            { "SlotType": "Event2", "Name": "トサキント" },
+            { "SlotType": "Event2", "Name": "カイロス" },
+            { "SlotType": "Event2", "Name": "ヘラクロス" },
+            { "SlotType": "Event2", "Name": "テッカニン" },
+            { "SlotType": "Event2", "Name": "ロトム", "Form": "スピン" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "バニリッチ" },
+            { "SlotType": "Event3", "Name": "アズマオウ" },
+            { "SlotType": "Event3", "Name": "カイロス" },
+            { "SlotType": "Event3", "Name": "ヘラクロス" },
+            { "SlotType": "Event3", "Name": "テッカニン" },
+            { "SlotType": "Event3", "Name": "ロトム", "Form": "スピン" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "バイバニラ" },
+            { "SlotType": "Event4", "Name": "アズマオウ" },
+            { "SlotType": "Event4", "Name": "カイロス" },
+            { "SlotType": "Event4", "Name": "ヘラクロス" },
+            { "SlotType": "Event4", "Name": "テッカニン" },
+            { "SlotType": "Event4", "Name": "ロトム", "Form": "スピン" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "バイバニラ", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "アズマオウ" },
+            { "SlotType": "Event5", "Name": "カイロス" },
+            { "SlotType": "Event5", "Name": "ヘラクロス" },
+            { "SlotType": "Event5", "Name": "テッカニン" },
+            { "SlotType": "Event5", "Name": "ロトム", "Form": "スピン" }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "バニプッチ" },
+            { "SlotType": "Event1", "Name": "トサキント" },
+            { "SlotType": "Event1", "Name": "カイロス" },
+            { "SlotType": "Event1", "Name": "ヘラクロス" },
+            { "SlotType": "Event1", "Name": "ツチニン" },
+            { "SlotType": "Event1", "Name": "ロトム", "Form": "スピン" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "バニプッチ" },
+            { "SlotType": "Event2", "Name": "トサキント" },
+            { "SlotType": "Event2", "Name": "カイロス" },
+            { "SlotType": "Event2", "Name": "ヘラクロス" },
+            { "SlotType": "Event2", "Name": "テッカニン" },
+            { "SlotType": "Event2", "Name": "ロトム", "Form": "スピン" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "バニリッチ" },
+            { "SlotType": "Event3", "Name": "アズマオウ" },
+            { "SlotType": "Event3", "Name": "カイロス" },
+            { "SlotType": "Event3", "Name": "ヘラクロス" },
+            { "SlotType": "Event3", "Name": "テッカニン" },
+            { "SlotType": "Event3", "Name": "ロトム", "Form": "スピン" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "バイバニラ" },
+            { "SlotType": "Event4", "Name": "アズマオウ" },
+            { "SlotType": "Event4", "Name": "カイロス" },
+            { "SlotType": "Event4", "Name": "ヘラクロス" },
+            { "SlotType": "Event4", "Name": "テッカニン" },
+            { "SlotType": "Event4", "Name": "ロトム", "Form": "スピン" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "バイバニラ", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "アズマオウ" },
+            { "SlotType": "Event5", "Name": "カイロス" },
+            { "SlotType": "Event5", "Name": "ヘラクロス" },
+            { "SlotType": "Event5", "Name": "テッカニン" },
+            { "SlotType": "Event5", "Name": "ロトム", "Form": "スピン" }
+        ]
+    ]
+}

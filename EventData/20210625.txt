@@ -1,0 +1,59 @@
+{
+    "Label": "Tentacle Pokemon Event",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "タタッコ" },
+            { "SlotType": "Event1", "Name": "テッポウオ" },
+            { "SlotType": "Event1", "Name": "マーイーカ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "オトスパス" },
+            { "SlotType": "Event2", "Name": "テッポウオ" },
+            { "SlotType": "Event2", "Name": "マーイーカ" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "オトスパス" },
+            { "SlotType": "Event3", "Name": "オクタン" },
+            { "SlotType": "Event3", "Name": "カラマネロ" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "オトスパス" },
+            { "SlotType": "Event4", "Name": "オクタン" },
+            { "SlotType": "Event4", "Name": "カラマネロ" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "オトスパス" },
+            { "SlotType": "Event5", "Name": "オトスパス", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "オクタン" },
+            { "SlotType": "Event5", "Name": "カラマネロ" }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "タタッコ" },
+            { "SlotType": "Event1", "Name": "テッポウオ" },
+            { "SlotType": "Event1", "Name": "マーイーカ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "オトスパス" },
+            { "SlotType": "Event2", "Name": "テッポウオ" },
+            { "SlotType": "Event2", "Name": "マーイーカ" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "オトスパス" },
+            { "SlotType": "Event3", "Name": "オクタン" },
+            { "SlotType": "Event3", "Name": "カラマネロ" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "オトスパス" },
+            { "SlotType": "Event4", "Name": "オクタン" },
+            { "SlotType": "Event4", "Name": "カラマネロ" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "オトスパス" },
+            { "SlotType": "Event5", "Name": "オトスパス", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "オクタン" },
+            { "SlotType": "Event5", "Name": "カラマネロ" }
+        ]
+    ]
+}

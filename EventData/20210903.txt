@@ -1,0 +1,69 @@
+{
+    "Label": "Cleaning Event",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "チラチーノ" },
+            { "SlotType": "Event1", "Name": "チルット" },
+            { "SlotType": "Event1", "Name": "ロトム", "Form": "カット" },
+            { "SlotType": "Event1", "Name": "コソクムシ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "チラチーノ" },
+            { "SlotType": "Event2", "Name": "チルット" },
+            { "SlotType": "Event2", "Name": "ロトム", "Form": "カット" },
+            { "SlotType": "Event2", "Name": "コソクムシ" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "チラチーノ" },
+            { "SlotType": "Event3", "Name": "チルタリス" },
+            { "SlotType": "Event3", "Name": "ロトム", "Form": "カット" },
+            { "SlotType": "Event3", "Name": "コソクムシ" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "チラチーノ" },
+            { "SlotType": "Event4", "Name": "チルタリス" },
+            { "SlotType": "Event4", "Name": "ロトム", "Form": "カット" },
+            { "SlotType": "Event4", "Name": "コソクムシ" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "チラチーノ" },
+            { "SlotType": "Event5", "Name": "チラチーノ", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "チルタリス" },
+            { "SlotType": "Event5", "Name": "ロトム", "Form": "カット" },
+            { "SlotType": "Event5", "Name": "コソクムシ" }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "チラチーノ" },
+            { "SlotType": "Event1", "Name": "チルット" },
+            { "SlotType": "Event1", "Name": "ロトム", "Form": "カット" },
+            { "SlotType": "Event1", "Name": "コソクムシ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "チラチーノ" },
+            { "SlotType": "Event2", "Name": "チルット" },
+            { "SlotType": "Event2", "Name": "ロトム", "Form": "カット" },
+            { "SlotType": "Event2", "Name": "コソクムシ" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "チラチーノ" },
+            { "SlotType": "Event3", "Name": "チルタリス" },
+            { "SlotType": "Event3", "Name": "ロトム", "Form": "カット" },
+            { "SlotType": "Event3", "Name": "コソクムシ" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "チラチーノ" },
+            { "SlotType": "Event4", "Name": "チルタリス" },
+            { "SlotType": "Event4", "Name": "ロトム", "Form": "カット" },
+            { "SlotType": "Event4", "Name": "コソクムシ" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "チラチーノ" },
+            { "SlotType": "Event5", "Name": "チラチーノ", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "チルタリス" },
+            { "SlotType": "Event5", "Name": "ロトム", "Form": "カット" },
+            { "SlotType": "Event5", "Name": "コソクムシ" }
+        ]
+    ]
+}

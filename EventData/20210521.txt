@@ -1,0 +1,47 @@
+{
+    "Label": "Wooloo Festival",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "ウールー" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ウールー" },
+            { "SlotType": "Event2", "Name": "バイウールー" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ウールー" },
+            { "SlotType": "Event3", "Name": "バイウールー" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ウールー" },
+            { "SlotType": "Event4", "Name": "バイウールー" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ウールー" },
+            { "SlotType": "Event5", "Name": "ウールー", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "バイウールー" }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "ウールー" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ウールー" },
+            { "SlotType": "Event2", "Name": "バイウールー" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ウールー" },
+            { "SlotType": "Event3", "Name": "バイウールー" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ウールー" },
+            { "SlotType": "Event4", "Name": "バイウールー" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ウールー" },
+            { "SlotType": "Event5", "Name": "ウールー", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "バイウールー" }
+        ]
+    ]
+}

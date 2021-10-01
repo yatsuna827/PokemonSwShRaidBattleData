@@ -1,0 +1,57 @@
+{
+    "Label": "Alola Starter Event",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "モクロー" },
+            { "SlotType": "Event1", "Name": "ニャビー" },
+            { "SlotType": "Event1", "Name": "アシマリ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "モクロー" },
+            { "SlotType": "Event2", "Name": "ニャビー" },
+            { "SlotType": "Event2", "Name": "アシマリ" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "モクロー" },
+            { "SlotType": "Event3", "Name": "ニャビー" },
+            { "SlotType": "Event3", "Name": "アシマリ" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "モクロー" },
+            { "SlotType": "Event4", "Name": "ニャビー" },
+            { "SlotType": "Event4", "Name": "アシマリ" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "モクロー" },
+            { "SlotType": "Event5", "Name": "ニャビー" },
+            { "SlotType": "Event5", "Name": "アシマリ" }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "モクロー" },
+            { "SlotType": "Event1", "Name": "ニャビー" },
+            { "SlotType": "Event1", "Name": "アシマリ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "モクロー" },
+            { "SlotType": "Event2", "Name": "ニャビー" },
+            { "SlotType": "Event2", "Name": "アシマリ" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "モクロー" },
+            { "SlotType": "Event3", "Name": "ニャビー" },
+            { "SlotType": "Event3", "Name": "アシマリ" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "モクロー" },
+            { "SlotType": "Event4", "Name": "ニャビー" },
+            { "SlotType": "Event4", "Name": "アシマリ" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "モクロー" },
+            { "SlotType": "Event5", "Name": "ニャビー" },
+            { "SlotType": "Event5", "Name": "アシマリ" }
+        ]
+    ]
+}

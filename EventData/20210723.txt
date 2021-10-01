@@ -1,0 +1,69 @@
+{
+    "Label": "Fossil Event",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "オムナイト" },
+            { "SlotType": "Event1", "Name": "カブト" },
+            { "SlotType": "Event1", "Name": "プテラ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "オムナイト" },
+            { "SlotType": "Event2", "Name": "カブト" },
+            { "SlotType": "Event2", "Name": "プテラ" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "オムナイト" },
+            { "SlotType": "Event3", "Name": "カブト" },
+            { "SlotType": "Event3", "Name": "プテラ" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "オムナイト" },
+            { "SlotType": "Event4", "Name": "カブト" },
+            { "SlotType": "Event4", "Name": "プテラ" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "オムナイト" },
+            { "SlotType": "Event5", "Name": "オムナイト", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "カブト" },
+            { "SlotType": "Event5", "Name": "プテラ" }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "ゾウドウ" },
+            { "SlotType": "Event1", "Name": "ドガース" },
+            { "SlotType": "Event1", "Name": "ソーナンス" },
+            { "SlotType": "Event1", "Name": "マホミル" },
+            { "SlotType": "Event1", "Name": "ヒトカゲ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ゾウドウ" },
+            { "SlotType": "Event2", "Name": "ドガース" },
+            { "SlotType": "Event2", "Name": "ソーナンス" },
+            { "SlotType": "Event2", "Name": "マホミル" },
+            { "SlotType": "Event2", "Name": "リザード" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ダイオウドウ", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "ドガース" },
+            { "SlotType": "Event3", "Name": "ソーナンス" },
+            { "SlotType": "Event3", "Name": "マホミル" },
+            { "SlotType": "Event3", "Name": "リザードン", "Form": "キョダイ" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ダイオウドウ", "Form": "キョダイ" },
+            { "SlotType": "Event4", "Name": "ドガース" },
+            { "SlotType": "Event4", "Name": "ソーナンス" },
+            { "SlotType": "Event4", "Name": "マホミル" },
+            { "SlotType": "Event4", "Name": "リザードン", "Form": "キョダイ" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ダイオウドウ", "Form": "キョダイ" },
+            { "SlotType": "Event3", "Name": "ダイオウドウ", "Form": "キョダイ", "ForceShiny": true },
+            { "SlotType": "Event3", "Name": "ドガース" },
+            { "SlotType": "Event3", "Name": "ソーナンス" },
+            { "SlotType": "Event3", "Name": "マホミル" },
+            { "SlotType": "Event3", "Name": "リザードン", "Form": "キョダイ" }
+        ]
+    ]
+}

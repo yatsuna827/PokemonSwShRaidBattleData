@@ -1,5 +1,5 @@
 {
-  "Label": "Gigantamax Meowth",
+  "Label": "World Penguin Day",
   "SwTable": [
     [
         { "SlotType": "Event1", "Name": "コオリッポ" }

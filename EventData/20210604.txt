@@ -1,0 +1,71 @@
+{
+    "Label": "Froggy Pokemon Event",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "フシギソウ" },
+            { "SlotType": "Event1", "Name": "ニョロモ" },
+            { "SlotType": "Event1", "Name": "グレッグル" },
+            { "SlotType": "Event1", "Name": "オタマロ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "フシギソウ" },
+            { "SlotType": "Event2", "Name": "ニョロゾ" },
+            { "SlotType": "Event2", "Name": "グレッグル" },
+            { "SlotType": "Event2", "Name": "ガマガル" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "フシギバナ" },
+            { "SlotType": "Event3", "Name": "ニョロトノ" },
+            { "SlotType": "Event3", "Name": "グレッグル" },
+            { "SlotType": "Event3", "Name": "ガマゲロゲ" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "フシギバナ" },
+            { "SlotType": "Event4", "Name": "ニョロトノ" },
+            { "SlotType": "Event4", "Name": "グレッグル" },
+            { "SlotType": "Event4", "Name": "ガマゲロゲ" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "フシギバナ" },
+            { "SlotType": "Event5", "Name": "フシギバナ", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "ニョロトノ" },
+            { "SlotType": "Event5", "Name": "ニョロトノ", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "グレッグル" },
+            { "SlotType": "Event5", "Name": "ガマゲロゲ" }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "フシギソウ" },
+            { "SlotType": "Event1", "Name": "ニョロモ" },
+            { "SlotType": "Event1", "Name": "グレッグル" },
+            { "SlotType": "Event1", "Name": "オタマロ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "フシギソウ" },
+            { "SlotType": "Event2", "Name": "ニョロゾ" },
+            { "SlotType": "Event2", "Name": "グレッグル" },
+            { "SlotType": "Event2", "Name": "ガマガル" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "フシギバナ" },
+            { "SlotType": "Event3", "Name": "ニョロトノ" },
+            { "SlotType": "Event3", "Name": "グレッグル" },
+            { "SlotType": "Event3", "Name": "ガマゲロゲ" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "フシギバナ" },
+            { "SlotType": "Event4", "Name": "ニョロトノ" },
+            { "SlotType": "Event4", "Name": "グレッグル" },
+            { "SlotType": "Event4", "Name": "ガマゲロゲ" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "フシギバナ" },
+            { "SlotType": "Event5", "Name": "フシギバナ", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "ニョロトノ" },
+            { "SlotType": "Event5", "Name": "ニョロトノ", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "グレッグル" },
+            { "SlotType": "Event5", "Name": "ガマゲロゲ" }
+        ]
+    ]
+}

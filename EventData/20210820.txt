@@ -1,0 +1,61 @@
+{
+    "Label": "Summer Ghost Event",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "ゴース" },
+            { "SlotType": "Event1", "Name": "ヒトモシ" },
+            { "SlotType": "Event1", "Name": "フワンテ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ゴースト" },
+            { "SlotType": "Event2", "Name": "ヒトモシ" },
+            { "SlotType": "Event2", "Name": "フワライド" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ゲンガー" },
+            { "SlotType": "Event3", "Name": "ヒトモシ" },
+            { "SlotType": "Event3", "Name": "フワライド" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ゲンガー" },
+            { "SlotType": "Event4", "Name": "シャンデラ" },
+            { "SlotType": "Event4", "Name": "フワライド" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ゲンガー" },
+            { "SlotType": "Event5", "Name": "ゲンガー", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "シャンデラ" },
+            { "SlotType": "Event5", "Name": "シャンデラ", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "フワライド" }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "ゴース" },
+            { "SlotType": "Event1", "Name": "ヒトモシ" },
+            { "SlotType": "Event1", "Name": "フワンテ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ゴースト" },
+            { "SlotType": "Event2", "Name": "ヒトモシ" },
+            { "SlotType": "Event2", "Name": "フワライド" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ゲンガー" },
+            { "SlotType": "Event3", "Name": "ヒトモシ" },
+            { "SlotType": "Event3", "Name": "フワライド" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ゲンガー" },
+            { "SlotType": "Event4", "Name": "シャンデラ" },
+            { "SlotType": "Event4", "Name": "フワライド" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ゲンガー" },
+            { "SlotType": "Event5", "Name": "ゲンガー", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "シャンデラ" },
+            { "SlotType": "Event5", "Name": "シャンデラ", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "フワライド" }
+        ]
+    ]
+}

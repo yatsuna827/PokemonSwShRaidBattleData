@@ -1,0 +1,51 @@
+{
+    "Label": "Meteorite Event",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "ルナトーン" },
+            { "SlotType": "Event1", "Name": "ソルロック" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ルナトーン" },
+            { "SlotType": "Event2", "Name": "ソルロック" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ルナトーン" },
+            { "SlotType": "Event3", "Name": "ソルロック" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ルナトーン" },
+            { "SlotType": "Event4", "Name": "ソルロック" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ルナトーン" },
+            { "SlotType": "Event5", "Name": "ルナトーン", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "ソルロック" },
+            { "SlotType": "Event5", "Name": "ソルロック", "ForceShiny": true }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "ルナトーン" },
+            { "SlotType": "Event1", "Name": "ソルロック" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ルナトーン" },
+            { "SlotType": "Event2", "Name": "ソルロック" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ルナトーン" },
+            { "SlotType": "Event3", "Name": "ソルロック" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ルナトーン" },
+            { "SlotType": "Event4", "Name": "ソルロック" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ルナトーン" },
+            { "SlotType": "Event5", "Name": "ルナトーン", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "ソルロック" },
+            { "SlotType": "Event5", "Name": "ソルロック", "ForceShiny": true }
+        ]
+    ]
+}

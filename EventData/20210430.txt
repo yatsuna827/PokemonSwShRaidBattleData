@@ -1,0 +1,61 @@
+{
+    "Label": "Meowth Festival",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "ニャース" },
+            { "SlotType": "Event1", "Name": "ニャース", "Form": "アローラ" },
+            { "SlotType": "Event1", "Name": "ニャース", "Form": "ガラル" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ニャース" },
+            { "SlotType": "Event2", "Name": "ニャース", "Form": "アローラ" },
+            { "SlotType": "Event2", "Name": "ニャース", "Form": "ガラル" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ニャース" },
+            { "SlotType": "Event3", "Name": "ニャース", "Form": "アローラ" },
+            { "SlotType": "Event3", "Name": "ニャース", "Form": "ガラル" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ニャース" },
+            { "SlotType": "Event4", "Name": "ニャース", "Form": "アローラ" },
+            { "SlotType": "Event4", "Name": "ニャース", "Form": "ガラル" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ニャース" },
+            { "SlotType": "Event5", "Name": "ニャース", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "ニャース", "Form": "アローラ" },
+            { "SlotType": "Event5", "Name": "ニャース", "Form": "ガラル" },
+            { "SlotType": "Event5", "Name": "ニャース", "Form": "ガラル", "ForceShiny": true }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "ニャース" },
+            { "SlotType": "Event1", "Name": "ニャース", "Form": "アローラ" },
+            { "SlotType": "Event1", "Name": "ニャース", "Form": "ガラル" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ニャース" },
+            { "SlotType": "Event2", "Name": "ニャース", "Form": "アローラ" },
+            { "SlotType": "Event2", "Name": "ニャース", "Form": "ガラル" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ニャース" },
+            { "SlotType": "Event3", "Name": "ニャース", "Form": "アローラ" },
+            { "SlotType": "Event3", "Name": "ニャース", "Form": "ガラル" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ニャース" },
+            { "SlotType": "Event4", "Name": "ニャース", "Form": "アローラ" },
+            { "SlotType": "Event4", "Name": "ニャース", "Form": "ガラル" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ニャース" },
+            { "SlotType": "Event5", "Name": "ニャース", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "ニャース", "Form": "アローラ" },
+            { "SlotType": "Event5", "Name": "ニャース", "Form": "ガラル" },
+            { "SlotType": "Event5", "Name": "ニャース", "Form": "ガラル", "ForceShiny": true }
+        ]
+    ]
+}
