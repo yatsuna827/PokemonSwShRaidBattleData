@@ -1,0 +1,79 @@
+{
+    "Label": "Halloween 2021",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "ゾロア" },
+            { "SlotType": "Event1", "Name": "ヤミラミ" },
+            { "SlotType": "Event1", "Name": "ヨマワル" },
+            { "SlotType": "Event1", "Name": "ココガラ" },
+            { "SlotType": "Event1", "Name": "クスネ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ゾロアーク" },
+            { "SlotType": "Event2", "Name": "ヤミラミ" },
+            { "SlotType": "Event2", "Name": "ヨマワル" },
+            { "SlotType": "Event2", "Name": "アオガラス" },
+            { "SlotType": "Event2", "Name": "フォクスライ" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ゾロアーク" },
+            { "SlotType": "Event3", "Name": "ヤミラミ" },
+            { "SlotType": "Event3", "Name": "ヨノワール" },
+            { "SlotType": "Event3", "Name": "アーマーガア" },
+            { "SlotType": "Event3", "Name": "フォクスライ" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ゾロアーク" },
+            { "SlotType": "Event4", "Name": "ヤミラミ" },
+            { "SlotType": "Event4", "Name": "ヨノワール" },
+            { "SlotType": "Event4", "Name": "アーマーガア" },
+            { "SlotType": "Event4", "Name": "フォクスライ" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ゾロアーク" },
+            { "SlotType": "Event5", "Name": "ゾロアーク", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "ヤミラミ" },
+            { "SlotType": "Event5", "Name": "ヨノワール" },
+            { "SlotType": "Event5", "Name": "アーマーガア" },
+            { "SlotType": "Event5", "Name": "フォクスライ" }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "ゾロア" },
+            { "SlotType": "Event1", "Name": "ヤミラミ" },
+            { "SlotType": "Event1", "Name": "ヨマワル" },
+            { "SlotType": "Event1", "Name": "ココガラ" },
+            { "SlotType": "Event1", "Name": "クスネ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "ゾロアーク" },
+            { "SlotType": "Event2", "Name": "ヤミラミ" },
+            { "SlotType": "Event2", "Name": "ヨマワル" },
+            { "SlotType": "Event2", "Name": "アオガラス" },
+            { "SlotType": "Event2", "Name": "フォクスライ" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "ゾロアーク" },
+            { "SlotType": "Event3", "Name": "ヤミラミ" },
+            { "SlotType": "Event3", "Name": "ヨノワール" },
+            { "SlotType": "Event3", "Name": "アーマーガア" },
+            { "SlotType": "Event3", "Name": "フォクスライ" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "ゾロアーク" },
+            { "SlotType": "Event4", "Name": "ヤミラミ" },
+            { "SlotType": "Event4", "Name": "ヨノワール" },
+            { "SlotType": "Event4", "Name": "アーマーガア" },
+            { "SlotType": "Event4", "Name": "フォクスライ" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "ゾロアーク" },
+            { "SlotType": "Event5", "Name": "ゾロアーク", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "ヤミラミ" },
+            { "SlotType": "Event5", "Name": "ヨノワール" },
+            { "SlotType": "Event5", "Name": "アーマーガア" },
+            { "SlotType": "Event5", "Name": "フォクスライ" }
+        ]
+    ]
+}
