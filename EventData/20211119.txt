@@ -1,0 +1,87 @@
+{
+    "Label": "Eevee and Friends",
+    "SwTable": [
+        [
+            { "SlotType": "Event1", "Name": "イーブイ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "イーブイ" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "イーブイ" },
+            { "SlotType": "Event3", "Name": "シャワーズ" },
+            { "SlotType": "Event3", "Name": "サンダース" },
+            { "SlotType": "Event3", "Name": "ブースター" },
+            { "SlotType": "Event3", "Name": "エーフィ" },
+            { "SlotType": "Event3", "Name": "ブースター" },
+            { "SlotType": "Event3", "Name": "リーフィア" },
+            { "SlotType": "Event3", "Name": "グレイシア" },
+            { "SlotType": "Event3", "Name": "ニンフィア" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "イーブイ" },
+            { "SlotType": "Event4", "Name": "シャワーズ" },
+            { "SlotType": "Event4", "Name": "サンダース" },
+            { "SlotType": "Event4", "Name": "ブースター" },
+            { "SlotType": "Event4", "Name": "エーフィ" },
+            { "SlotType": "Event4", "Name": "ブースター" },
+            { "SlotType": "Event4", "Name": "リーフィア" },
+            { "SlotType": "Event4", "Name": "グレイシア" },
+            { "SlotType": "Event4", "Name": "ニンフィア" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "イーブイ", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "イーブイ", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "シャワーズ" },
+            { "SlotType": "Event5", "Name": "サンダース" },
+            { "SlotType": "Event5", "Name": "ブースター" },
+            { "SlotType": "Event5", "Name": "エーフィ" },
+            { "SlotType": "Event5", "Name": "ブースター" },
+            { "SlotType": "Event5", "Name": "リーフィア" },
+            { "SlotType": "Event5", "Name": "グレイシア" },
+            { "SlotType": "Event5", "Name": "ニンフィア" }
+        ]
+    ],
+    "ShTable": [
+        [
+            { "SlotType": "Event1", "Name": "イーブイ" }
+        ],
+        [
+            { "SlotType": "Event2", "Name": "イーブイ" }
+        ],
+        [
+            { "SlotType": "Event3", "Name": "イーブイ" },
+            { "SlotType": "Event3", "Name": "シャワーズ" },
+            { "SlotType": "Event3", "Name": "サンダース" },
+            { "SlotType": "Event3", "Name": "ブースター" },
+            { "SlotType": "Event3", "Name": "エーフィ" },
+            { "SlotType": "Event3", "Name": "ブースター" },
+            { "SlotType": "Event3", "Name": "リーフィア" },
+            { "SlotType": "Event3", "Name": "グレイシア" },
+            { "SlotType": "Event3", "Name": "ニンフィア" }
+        ],
+        [
+            { "SlotType": "Event4", "Name": "イーブイ" },
+            { "SlotType": "Event4", "Name": "シャワーズ" },
+            { "SlotType": "Event4", "Name": "サンダース" },
+            { "SlotType": "Event4", "Name": "ブースター" },
+            { "SlotType": "Event4", "Name": "エーフィ" },
+            { "SlotType": "Event4", "Name": "ブースター" },
+            { "SlotType": "Event4", "Name": "リーフィア" },
+            { "SlotType": "Event4", "Name": "グレイシア" },
+            { "SlotType": "Event4", "Name": "ニンフィア" }
+        ],
+        [
+            { "SlotType": "Event5", "Name": "イーブイ", "ForceShiny": true },
+            { "SlotType": "Event5", "Name": "イーブイ", "Form": "キョダイ" },
+            { "SlotType": "Event5", "Name": "シャワーズ" },
+            { "SlotType": "Event5", "Name": "サンダース" },
+            { "SlotType": "Event5", "Name": "ブースター" },
+            { "SlotType": "Event5", "Name": "エーフィ" },
+            { "SlotType": "Event5", "Name": "ブースター" },
+            { "SlotType": "Event5", "Name": "リーフィア" },
+            { "SlotType": "Event5", "Name": "グレイシア" },
+            { "SlotType": "Event5", "Name": "ニンフィア" }
+        ]
+    ]
+}
