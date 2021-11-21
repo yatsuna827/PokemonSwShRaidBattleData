@@ -13,7 +13,7 @@
             { "SlotType": "Event3", "Name": "サンダース" },
             { "SlotType": "Event3", "Name": "ブースター" },
             { "SlotType": "Event3", "Name": "エーフィ" },
-            { "SlotType": "Event3", "Name": "ブースター" },
+            { "SlotType": "Event3", "Name": "ブラッキー" },
             { "SlotType": "Event3", "Name": "リーフィア" },
             { "SlotType": "Event3", "Name": "グレイシア" },
             { "SlotType": "Event3", "Name": "ニンフィア" }
@@ -24,7 +24,7 @@
             { "SlotType": "Event4", "Name": "サンダース" },
             { "SlotType": "Event4", "Name": "ブースター" },
             { "SlotType": "Event4", "Name": "エーフィ" },
-            { "SlotType": "Event4", "Name": "ブースター" },
+            { "SlotType": "Event4", "Name": "ブラッキー" },
             { "SlotType": "Event4", "Name": "リーフィア" },
             { "SlotType": "Event4", "Name": "グレイシア" },
             { "SlotType": "Event4", "Name": "ニンフィア" }
@@ -36,7 +36,7 @@
             { "SlotType": "Event5", "Name": "サンダース" },
             { "SlotType": "Event5", "Name": "ブースター" },
             { "SlotType": "Event5", "Name": "エーフィ" },
-            { "SlotType": "Event5", "Name": "ブースター" },
+            { "SlotType": "Event5", "Name": "ブラッキー" },
             { "SlotType": "Event5", "Name": "リーフィア" },
             { "SlotType": "Event5", "Name": "グレイシア" },
             { "SlotType": "Event5", "Name": "ニンフィア" }
@@ -55,7 +55,7 @@
             { "SlotType": "Event3", "Name": "サンダース" },
             { "SlotType": "Event3", "Name": "ブースター" },
             { "SlotType": "Event3", "Name": "エーフィ" },
-            { "SlotType": "Event3", "Name": "ブースター" },
+            { "SlotType": "Event3", "Name": "ブラッキー" },
             { "SlotType": "Event3", "Name": "リーフィア" },
             { "SlotType": "Event3", "Name": "グレイシア" },
             { "SlotType": "Event3", "Name": "ニンフィア" }
@@ -66,7 +66,7 @@
             { "SlotType": "Event4", "Name": "サンダース" },
             { "SlotType": "Event4", "Name": "ブースター" },
             { "SlotType": "Event4", "Name": "エーフィ" },
-            { "SlotType": "Event4", "Name": "ブースター" },
+            { "SlotType": "Event4", "Name": "ブラッキー" },
             { "SlotType": "Event4", "Name": "リーフィア" },
             { "SlotType": "Event4", "Name": "グレイシア" },
             { "SlotType": "Event4", "Name": "ニンフィア" }
@@ -78,7 +78,7 @@
             { "SlotType": "Event5", "Name": "サンダース" },
             { "SlotType": "Event5", "Name": "ブースター" },
             { "SlotType": "Event5", "Name": "エーフィ" },
-            { "SlotType": "Event5", "Name": "ブースター" },
+            { "SlotType": "Event5", "Name": "ブラッキー" },
             { "SlotType": "Event5", "Name": "リーフィア" },
             { "SlotType": "Event5", "Name": "グレイシア" },
             { "SlotType": "Event5", "Name": "ニンフィア" }
